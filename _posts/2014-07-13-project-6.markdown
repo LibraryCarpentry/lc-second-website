@@ -9,7 +9,7 @@ thumbnail: web_scraping_thumbnail.jpg
 alt: image-alt
 project-date: https://github.com/data-lessons/library-webscraping/
 client: Belinda Weaver and Thomas Guignard
-category: Alpha
+category: workshop
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+tags: Alpha
 ---
