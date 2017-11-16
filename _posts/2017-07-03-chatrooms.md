@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog-post
 title: Library Carpentry chatrooms proliferate
 category: blog
 ---

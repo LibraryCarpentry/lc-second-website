@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog-post
 title: Library Carpentry - Where and When
 category: blog
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog-post
 title: Library Carpentry workshop call
 category: blog
 ---

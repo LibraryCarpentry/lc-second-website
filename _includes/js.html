@@ -7,8 +7,9 @@
     <!-- Plugin JavaScript -->
     <script src="{{ "/js/jquery.easing.min.js" | prepend: site.baseurl }}"></script>
     <script src="{{ "/js/classie.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/cbpAnimatedHeader.js" | prepend: site.baseurl }}"></script>
-
+    {% if page.layout == "default" %}
+        <script src="{{ "/js/cbpAnimatedHeader.js" | prepend: site.baseurl }}"></script>
+    {% endif %}
     <!-- Contact Form JavaScript -->
     <script src="{{ "/js/jqBootstrapValidation.js" | prepend: site.baseurl }}"></script>
     <!-- <script src="{{ "/js/contact_me.js" | prepend: site.baseurl }}"></script> -->

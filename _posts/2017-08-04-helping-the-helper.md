@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog-post
 title: "Helping the Helper - practical advice for Library Carpentry Helpers"
 category: blog
 ---
