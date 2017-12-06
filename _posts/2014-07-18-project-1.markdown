@@ -7,7 +7,7 @@ date: 2014-07-18
 img: lc_logo.jpg
 thumbnail: lc_logo_thumbnail.jpg
 alt: image-alt
-project-date: https://github.com/data-lessons/library-data-intro
+project-date: http://data-lessons.github.io/library-data-intro/
 client: Carmi Cronje and James Baker
 category: workshop
 description: This Library Carpentry lesson introduces librarians to working with data. At the conclusion of the lesson you will&#58; understand terms, phrases, and concepts in software development and data science; identify and use best practice in data structures; use regular expressions in searches
