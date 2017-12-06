@@ -118,6 +118,10 @@ fieldset[disabled] .btn-primary.active {
     background-color: #fff;
 }
 
+.btn-lower {
+    text-transform: none;
+}
+
 .btn-xl {
     padding: 20px 40px;
     border-color: #{{ site.data.template.color.primary }};
