@@ -1,10 +1,10 @@
-url: https://richyvk.github.io
-baseurl: /library-carpentry-redesign
+url: https://librarycarpentry.github.io
+baseurl: /new-website
 
 # Site settings
 title: Library Carpentry
 email: contact@librarycarpentry.org
-description: "Software skills for librarians."
+description: "Software and data skills for librarians"
 
 
 # Team names, titles and social links
