@@ -4,7 +4,7 @@ subtitle: Extracting data from websites
 layout: default
 modal-id: 6
 date: 2014-07-13
-img: web_scraping.jpg
+img: web_scrape.jpg
 thumbnail: web_scrape.jpg
 alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-webscraping/
