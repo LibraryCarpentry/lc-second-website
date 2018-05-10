@@ -7,7 +7,7 @@ date: 2014-07-10
 img: lc_logo.jpg
 thumbnail: lc_logo_thumbnail.jpg
 alt: image-alt
-project-date: https://data-lessons.github.io/data-intro-archives/
+project-date: https://librarycarpentry.github.io/lc-data-intro-archives/
 client: Jenny Bunn, Noah Geraci, and James Baker
 category: workshop
 description: This Library Carpentry lesson introduces archivists to working with data.
