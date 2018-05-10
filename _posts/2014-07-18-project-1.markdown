@@ -4,7 +4,7 @@ subtitle: An introduction to data structures and computing terminology
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: lc_logo.jpg
+img: dintro.jpg
 thumbnail: dintro.jpg
 alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-data-intro/
