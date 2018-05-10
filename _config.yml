@@ -48,6 +48,8 @@ social:
     url: http://twitter.com/libcarpentry
   - title: github
     url: https://github.com/LibraryCarpentry/
+  - title: gitter   
+    url: https://gitter.im/LibraryCarpentry/Lobby
 
 # Postal address (add as many lines as necessary)
 address:
