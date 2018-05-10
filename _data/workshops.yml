@@ -539,7 +539,6 @@ workshops:
     what: "Tidy data, Shell, OpenRefine, Git"
     url: https://vai2fc.github.io/2018-04-05-vanderbilt/
     blogs: null
-- &id_ws_future # future workshops: move this line down as time passes
   - venue: "ALLA 2018 conference, Darwin"
     start: 2018-05-02
     end: 2018-05-02
@@ -564,6 +563,7 @@ workshops:
     what: "Intro to Data, OpenRefine, RegEx, Shell"
     url: "https://weaverbel.github.io/2018-05-04-unimelb-lc//"
     blogs: null
+- &id_ws_future # future workshops: move this line down as time passes
   - venue: "UCLA Library"
     start: 2018-05-24
     end: 2018-05-25
