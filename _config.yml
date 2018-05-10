@@ -79,11 +79,11 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
+  - title: fab fa-twitter
     url: http://twitter.com/libcarpentry
-  - title: github
+  - title: fab fa-github
     url: https://github.com/LibraryCarpentry/
-  - title: gitter   
+  - title: fab fa-gitter   
     url: https://gitter.im/LibraryCarpentry/Lobby
 
 # Postal address (add as many lines as necessary)
