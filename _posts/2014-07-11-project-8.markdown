@@ -7,7 +7,7 @@ date: 2014-07-11
 img: python.jpg
 thumbnail: python_thumbnail.jpg
 alt: image-alt
-project-date: https://data-lessons.github.io/library-python-intro/
+project-date: https://librarycarpentry.github.io/lc-python-intro/
 client: Carlos Martinez and Richard Vankoningsveld
 category: workshop
 description: Python is a general purpose programming language that supports rapid development of scripts and applications.
