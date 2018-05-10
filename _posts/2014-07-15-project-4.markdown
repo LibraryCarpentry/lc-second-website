@@ -10,6 +10,6 @@ alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-git/
 client: Belinda Weaver and Jez Cope
 category: workshop
-description: Begin to understand and use Git/GitHub. You will not be an expert by the end of the class. You will probably not even feel very comfortable using Git. This is okay. We want to make a start but, as with any skill, using Git takes practice.
+description: Begin to understand and use version control with Git/GitHub. You will not be an expert by the end of the class. You will probably not even feel very comfortable using Git. This is okay. We want to make a start but, as with any skill, using Git takes practice.
 tags: Beta
 ---
