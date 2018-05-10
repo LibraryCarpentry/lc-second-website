@@ -12,13 +12,13 @@ people:
 - name: Belinda Weaver (Australia)
   position: Community and Communications Lead, The Carpentries
   social:
-    - title: fa fa-twitter
+    - icon: witter
       url: https://twitter.com/cloudaus
-    - title: fa fa-github
+    - icon: github
       url: https://github.com/weaverbel
-    - title: fa fa-linkedin
+    - icon: linkedin
       url: https://www.linkedin.com/in/belinda-weaver-8525526/
-    - icon: fa fa-envelope
+    - title: fa fa-envelope
       url: mailto:bweaver@carpentries.org
 
 - name: Chris Erdmann (USA)
