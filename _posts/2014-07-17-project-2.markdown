@@ -7,9 +7,9 @@ date: 2014-07-17
 img: shell.jpg
 thumbnail: shell_thumbnail.jpg
 alt: image-alt
-project-date: https://data-lessons.github.io/library-shell/
+project-date: https://librarycarpentry.github.io/lc-shell/
 client: Belinda Weaver and Tim Dennis
 category: workshop
-description: Introduces the Unix-style command line interface, allowing you to efficiently work with directories and files, and find and manipulate data.
+description: Introduces the Unix-style command line interface, allowing you to efficiently work with directories and files, and find and manipulate data. Intoduces for loops, pipes, and counting and mining texts.
 tags: Stable
 ---
