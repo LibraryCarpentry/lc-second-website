@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 2014-07-14
 img: sql.jpg
-thumbnail: sql_thumbnail.jpg
+thumbnail: minisql.jpg
 alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-sql/
 client: Elaine Wong and Janice Chan
