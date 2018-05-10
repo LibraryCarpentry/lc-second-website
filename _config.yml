@@ -12,31 +12,27 @@ people:
 - name: Belinda Weaver (Australia)
   position: Community and Communications Lead, The Carpentries
   social:
-    - icon: twitter
+    - title: fab fa-twitter
       url: https://twitter.com/cloudaus
-    - icon: github
+    - title: fab fa-github
       url: https://github.com/weaverbel
-    - icon: linkedin
-      url: https://www.linkedin.com/in/belinda-weaver-8525526/
     - title: fa fa-envelope
       url: mailto:bweaver@carpentries.org
 
 - name: Chris Erdmann (USA)
   position: Library Carpentry Community and Development Director
   social:
-    - title: fa fa-twitter
+    - title: fab fa-twitter
       url: https://twitter.com/libcce
-    - title: fa fa-github
+    - title: fab fa-github
       url: https://github.com/libcce
-    - title: fa fa-linkedin
-      url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
     - title: fa fa-envelope
       url: mailto:chris@carpentries.org
 
 - name: Jez Cope (UK)
   position: University of Sheffield Library
   social:
-    - title: fa fa-twitter
+    - title: fab fa-twitter
       url: https://twitter.com/jezcope
     - title: fa fa-github
       url: https://github.com/jezcope
@@ -44,37 +40,45 @@ people:
 - name: Cam Macdonell (Canada)
   position: McEwan University
   social:
-    - title: fa fa-twitter
+    - title: fab fa-twitter
       url: https://github.com/cmacdonell
 
 - name: Tim Dennis (USA)
   position: UCLA Library
   social:
-    - title: fa fa-twitter
+    - title: fab fa-twitter
       url: https://twitter.com/jt14den
-    - title: fa fa-github
+    - title: fab fa-github
       url: https://github.com/jt14den  
 
 - name: Juliane Schneider (USA)
   position: UCLA Library
   social:
-    - title: fa fa-twitter
+    - title: fab fa-twitter
       url: https://twitter.com/JulianeS
-    - title: fa fa-github
+    - title: fab fa-github
       url: https://github.com/pitviper6 
           
 - name: Kayleigh Lino (South Africa)
   position: TBA
   social:
-    - title: fa fa-twitter
+    - title: fab fa-twitter
       url: https://twitter.com/CuratorKay
+      
+- name: Richard Vankoningsveld (Australia)
+  position: Supreme Court Library
+  social:
+    - title: fab fa-twitter
+      url: https://twitter.com/richyvk
+    - title: fab fa-github
+      url: https://github.com/richyvk 
       
 - name: Greg Wilson (Canada) (Advisory Role)
   position: DataCamp
   social:
-    - title: fa fa-twitter
+    - title: fab fa-twitter
       url: https://twitter.com/gvwilson  
-    - title: fa fa-github
+    - title: fab fa-github
       url: https://github.com/gvwilson 
                   
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
