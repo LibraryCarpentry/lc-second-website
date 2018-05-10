@@ -1,11 +1,11 @@
 ---
 title: OpenRefine
-subtitle: An introduction to cleaning and enhancing data in OpenRefine
+subtitle: An introduction to cleaning and enhancing data using OpenRefine
 layout: default
 modal-id: 3
 date: 2014-07-16
 img: open_refine.jpg
-thumbnail: open_refine_thumbnail.jpg
+thumbnail: open_ref.jpg
 alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-open-refine/
 client: Owen Stephens, Juliane Schneider, and Carmi Cronje
