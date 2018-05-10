@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 img: git.jpg
-thumbnail: git_thumbnail.jpg
+thumbnail: git.jpg
 alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-git/
 client: Belinda Weaver and Jez Cope
