@@ -4,7 +4,7 @@ subtitle: Introduces relational database management system using SQLite.
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: sql.jpg
+img: minisql.jpg
 thumbnail: minisql.jpg
 alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-sql/
