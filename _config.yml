@@ -3,7 +3,7 @@ baseurl: /new-website
 
 # Site settings
 title: Library Carpentry
-email: contact@librarycarpentry.org
+email: team@carpentries.org
 description: "Software and data skills for librarians"
 
 
@@ -45,11 +45,9 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/libcarpentry
   - title: github
     url: https://github.com/LibraryCarpentry/
-  - title: github
-    url: https://github.com/data-lessons
 
 # Postal address (add as many lines as necessary)
 address:
