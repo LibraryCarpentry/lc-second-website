@@ -4,7 +4,7 @@ subtitle: Good data organization is the foundation of much of our day-to-day wor
 layout: default
 modal-id: 7
 date: 2014-07-12
-img: lc_logo.jpg
+img: sssh.jpg
 thumbnail: sssh.jpg
 alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-spreadsheets/
