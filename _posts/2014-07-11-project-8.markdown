@@ -5,7 +5,7 @@ layout: default
 modal-id: 8
 date: 2014-07-11
 img: python.jpg
-thumbnail: python_thumbnail.jpg
+thumbnail: minipython.jpg
 alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-python-intro/
 client: Carlos Martinez and Richard Vankoningsveld
