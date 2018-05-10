@@ -10,23 +10,72 @@ description: "Software and data skills for librarians"
 # Team names, titles and social links
 people:
 - name: Belinda Weaver
-  pic: 
+  pic: belindaweaver
   position: Community and Communications Lead, The Carpentries
   social:
-    - title: twitter
+    - icon: fab fa-twitter
       url: https://twitter.com/cloudaus
-    - title: github
+    - icon: fab fa-github
       url: https://github.com/weaverbel
-    - title: linkedin
+    - icon: fab fa-linkedin
       url: https://www.linkedin.com/in/belinda-weaver-8525526/
+    - icon: fa fa-envelope
+      url: mailto:bweaver@carpentries.org
 
-- name: Chris Erdmann 
-  pic: 
-  position: Community Development Lead
+- name: Chris Erdmann
+  pic: chriserdmann
+  position: Library Carpentry Community and Development Director
   social:
-    - title: twitter
+    - icon: fab fa-twitter
       url: https://twitter.com/libcce
-
+    - icon: fab fa-github
+      url: https://github.com/libcce
+    - icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
+    - icon: fa fa-envelope
+      url: mailto:chris@carpentries.org
+      
+- name: Tim Dennis
+  pic: timdennis
+  position: 
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/jt14den
+    - icon: fab fa-github
+      url: https://github.com/jt14den
+    - icon: fa fa-envelope
+      url: mailto:timdennis@gmail.com 
+      
+- name: Jez Cope
+  pic: jezcope
+  position: 
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/jezcope
+    - icon: fab fa-github
+      url: https://github.com/jezcope
+    - icon: fa fa-envelope
+      url: mailto:
+  
+- name: Cam Macdonell
+  pic: cammcdonell
+  position: 
+  social:
+    - icon: fab fa-github
+      url: https://github.com/cmacdonell
+    - icon: fa fa-envelope
+      url: mailto:
+      
+- name: Kayleigh Lino
+  pic: kayleigh
+  position: 
+  social:
+    - icon: fab fa-twitter
+      url: https://twitter.com/
+    - icon: fab fa-github
+      url: https://github.com/
+    - icon: fa fa-envelope
+      url: mailto: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
