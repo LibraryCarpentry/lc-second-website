@@ -5,7 +5,7 @@ layout: default
 modal-id: 7
 date: 2014-07-12
 img: lc_logo.jpg
-thumbnail: lc_logo_thumbnail.jpg
+thumbnail: dintro.jpg
 alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-spreadsheets/
 client: Jez Cope
