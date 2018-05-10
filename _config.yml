@@ -12,23 +12,23 @@ people:
 - name: Belinda Weaver (Australia)
   position: Community and Communications Lead, The Carpentries
   social:
-    - title: fab fa-twitter
+    - title: fa fa-twitter
       url: https://twitter.com/cloudaus
-    - title: fab fa-github
+    - title: fa fa-github
       url: https://github.com/weaverbel
-    - title: fab fa-linkedin
+    - title: fa fa-linkedin
       url: https://www.linkedin.com/in/belinda-weaver-8525526/
-    - icon: fas fa-envelope
+    - icon: fa fa-envelope
       url: mailto:bweaver@carpentries.org
 
 - name: Chris Erdmann (USA)
   position: Library Carpentry Community and Development Director
   social:
-    - title: fab fa-twitter
+    - title: fa fa-twitter
       url: https://twitter.com/libcce
-    - title: fab fa-github
+    - title: fa fa-github
       url: https://github.com/libcce
-    - title: fab fa-linkedin
+    - title: fa fa-linkedin
       url: https://www.linkedin.com/in/christopher-erdmann-1213a456/
     - title: fa fa-envelope
       url: mailto:chris@carpentries.org
@@ -36,38 +36,46 @@ people:
 - name: Jez Cope (UK)
   position: University of Sheffield Library
   social:
-    - title: fab fa-twitter
+    - title: fa fa-twitter
       url: https://twitter.com/jezcope
-    - title: fab fa-github
+    - title: fa fa-github
       url: https://github.com/jezcope
 
 - name: Cam Macdonell (Canada)
   position: McEwan University
   social:
-    - title: fab fa-twitter
+    - title: fa fa-twitter
       url: https://github.com/cmacdonell
 
 - name: Tim Dennis (USA)
   position: UCLA Library
   social:
-    - title: fab fa-twitter
+    - title: fa fa-twitter
       url: https://twitter.com/jt14den
-    - title: fab fa-github
+    - title: fa fa-github
       url: https://github.com/jt14den  
 
 - name: Juliane Schneider (USA)
   position: UCLA Library
   social:
-    - title: fab fa-twitter
+    - title: fa fa-twitter
       url: https://twitter.com/JulianeS
-    - title: fab fa-github
+    - title: fa fa-github
       url: https://github.com/pitviper6 
           
 - name: Kayleigh Lino (South Africa)
   position: TBA
   social:
-    - title: fab fa-twitter
+    - title: fa fa-twitter
       url: https://twitter.com/CuratorKay
+      
+- name: Greg Wilson (Canada) (Advisory Role)
+  position: DataCamp
+  social:
+    - title: fa fa-twitter
+      url: https://twitter.com/gvwilson  
+    - title: fa fa-github
+      url: https://github.com/gvwilson 
                   
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
