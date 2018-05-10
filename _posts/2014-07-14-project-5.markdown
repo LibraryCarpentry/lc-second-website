@@ -7,7 +7,7 @@ date: 2014-07-14
 img: sql.jpg
 thumbnail: sql_thumbnail.jpg
 alt: image-alt
-project-date: https://data-lessons.github.io/library-sql/
+project-date: https://librarycarpentry.github.io/lc-sql/
 client: Elaine Wong and Janice Chan
 category: workshop
 description: This Library Carpentry lesson introduces librarians to relational database management system using SQLite. At the conclusion of the lesson you will&#58; understand what SQLite does; use SQLite to summarise and link databases.
