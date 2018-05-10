@@ -7,9 +7,9 @@ date: 2014-07-16
 img: open_refine.jpg
 thumbnail: open_refine_thumbnail.jpg
 alt: image-alt
-project-date: https://data-lessons.github.io/library-openrefine/
+project-date: https://librarycarpentry.github.io/lc-open-refine/
 client: Owen Stephens, Juliane Schneider, and Carmi Cronje
 category: workshop
-description: This Library Carpentry lesson introduces librarians to working with data in OpenRefine. At the conclusion of the lesson you will&#58; understand what the OpenRefine software does; use the OpenRefine software to work with data files.
+description: This Library Carpentry lesson introduces librarians to working with data in OpenRefine. At the conclusion of the lesson you will&#58; understand what the OpenRefine software does; use the OpenRefine software to work with and clean up data files.
 tags: Stable
 ---
