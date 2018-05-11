@@ -1,6 +1,6 @@
 ---
 title: Git Intro for Librarians
-subtitle: Introduces the Git version control system and the GitHub collaboration tool.
+subtitle: An introduction to version control using Git and GitHub for collaboration
 layout: default
 modal-id: 4
 date: 2014-07-15
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-git/
 client: Belinda Weaver and Jez Cope
 category: workshop
-description: Begin to understand and use version control with Git/GitHub. You will not be an expert by the end of the class. You will probably not even feel very comfortable using Git. This is okay. We want to make a start but, as with any skill, using Git takes practice.
+description: This lessons introduces the concept of version control. Learners will practise version control with Git and then GitHub. 
 tags: Beta
 ---
