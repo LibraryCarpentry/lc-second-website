@@ -48,6 +48,7 @@ people:
       url: https://github.com/cmacdonell 
   
 - name: Juliane Schneider (USA)
+  pic: julianeschneider
   social:
     - title: fab fa-twitter
       url: https://twitter.com/JulianeS
@@ -55,6 +56,7 @@ people:
       url: https://github.com/pitviper6 
       
 - name: Richard Vankoningsveld (Australia)
+  pic: richard
   social:
     - title: fab fa-twitter
       url: https://twitter.com/richyvk
