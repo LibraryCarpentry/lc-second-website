@@ -9,6 +9,14 @@ description: "Software and data skills for librarians"
 
 # Team names, titles and social links
 people:
+- name: John Chodacki (USA)
+  pic: chodacki
+  social:
+    - title: fab fa-twitter
+      url: https://twitter.com/chodacki
+    - title: fa fa-github
+      url: https://github.com/chodacki
+      
 - name: Jez Cope (UK)
   pic: jezcope
   social:
