@@ -1,6 +1,6 @@
 ---
 title: Introduction to Python
-subtitle: Python is a general purpose programming language that supports rapid development of scripts and applications.
+subtitle: An introduction to Python, a general purpose programming language
 layout: default
 modal-id: 8
 date: 2014-07-11
