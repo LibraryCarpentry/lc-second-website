@@ -10,27 +10,20 @@ description: "Software and data skills for librarians"
 # Team names, titles and social links
 people:
 - name: Belinda Weaver (Australia)
-  position: Community and Communications Lead, The Carpentries
   social:
-    - icon: fab fa-twitter
+    - title: fab fa-twitter
       url: https://twitter.com/cloudaus
     - title: fab fa-github
       url: https://github.com/weaverbel
-    - title: fa fa-envelope
-      url: mailto:bweaver@carpentries.org
 
 - name: Chris Erdmann (USA)
-  position: Library Carpentry Community and Development Director
   social:
     - title: fab fa-twitter
       url: https://twitter.com/libcce
     - title: fab fa-github
       url: https://github.com/libcce
-    - title: fa fa-envelope
-      url: mailto:chris@carpentries.org
 
 - name: Jez Cope (UK)
-  position: University of Sheffield Library
   social:
     - title: fab fa-twitter
       url: https://twitter.com/jezcope
@@ -38,13 +31,11 @@ people:
       url: https://github.com/jezcope
 
 - name: Cam Macdonell (Canada)
-  position: McEwan University
   social:
     - title: fab fa-twitter
       url: https://github.com/cmacdonell
 
 - name: Tim Dennis (USA)
-  position: UCLA Library
   social:
     - title: fab fa-twitter
       url: https://twitter.com/jt14den
@@ -52,7 +43,6 @@ people:
       url: https://github.com/jt14den  
 
 - name: Juliane Schneider (USA)
-  position: UCLA Library
   social:
     - title: fab fa-twitter
       url: https://twitter.com/JulianeS
@@ -60,13 +50,11 @@ people:
       url: https://github.com/pitviper6 
           
 - name: Kayleigh Lino (South Africa)
-  position: TBA
   social:
     - title: fab fa-twitter
       url: https://twitter.com/CuratorKay
       
 - name: Richard Vankoningsveld (Australia)
-  position: Supreme Court Library
   social:
     - title: fab fa-twitter
       url: https://twitter.com/richyvk
@@ -74,7 +62,6 @@ people:
       url: https://github.com/richyvk 
       
 - name: Greg Wilson (Canada) (Advisory Role)
-  position: DataCamp
   social:
     - title: fab fa-twitter
       url: https://twitter.com/gvwilson  
