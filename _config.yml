@@ -9,31 +9,12 @@ description: "Software and data skills for librarians"
 
 # Team names, titles and social links
 people:
-- name: Belinda Weaver (Australia)
-  social:
-    - title: fab fa-twitter
-      url: https://twitter.com/cloudaus
-    - title: fab fa-github
-      url: https://github.com/weaverbel
-
-- name: Chris Erdmann (USA)
-  social:
-    - title: fab fa-twitter
-      url: https://twitter.com/libcce
-    - title: fab fa-github
-      url: https://github.com/libcce
-
 - name: Jez Cope (UK)
   social:
     - title: fab fa-twitter
       url: https://twitter.com/jezcope
     - title: fa fa-github
       url: https://github.com/jezcope
-
-- name: Cam Macdonell (Canada)
-  social:
-    - title: fab fa-twitter
-      url: https://github.com/cmacdonell
 
 - name: Tim Dennis (USA)
   social:
@@ -42,17 +23,28 @@ people:
     - title: fab fa-github
       url: https://github.com/jt14den  
 
+- name: Chris Erdmann (USA)
+  social:
+    - title: fab fa-twitter
+      url: https://twitter.com/libcce
+    - title: fab fa-github
+      url: https://github.com/libcce
+      
+- name: Kayleigh Lino (South Africa)
+  social:
+    - title: fab fa-twitter
+      url: https://twitter.com/CuratorKay
+      
+- name: Cam Macdonell (Canada)
+  social:
+    - title: fab fa-twitter
+      url: https://github.com/cmacdonell      
 - name: Juliane Schneider (USA)
   social:
     - title: fab fa-twitter
       url: https://twitter.com/JulianeS
     - title: fab fa-github
       url: https://github.com/pitviper6 
-          
-- name: Kayleigh Lino (South Africa)
-  social:
-    - title: fab fa-twitter
-      url: https://twitter.com/CuratorKay
       
 - name: Richard Vankoningsveld (Australia)
   social:
@@ -60,6 +52,13 @@ people:
       url: https://twitter.com/richyvk
     - title: fab fa-github
       url: https://github.com/richyvk 
+ 
+- name: Belinda Weaver (Convenor - Australia)
+  social:
+    - title: fab fa-twitter
+      url: https://twitter.com/cloudaus
+    - title: fab fa-github
+      url: https://github.com/weaverbel
       
 - name: Greg Wilson (Canada) (Advisory Role)
   social:
