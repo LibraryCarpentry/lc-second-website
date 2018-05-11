@@ -17,8 +17,8 @@ I taught the rest with help from Peter,
 
 We has a few snafus wth unco-operative shells and site workarounds, but on the whole, the day went well.
 
-![Workshop pictures]({{ "/img/20180504_105021.jpg" | prepend: site.baseurl }})
+!Peter teaching]({{ "/img/peter_teach.jpg" | prepend: site.baseurl }})
 <br>
-![Workshop pictures]({{ "/img/20180504_105026.jpg" | prepend: site.baseurl }})
+![Workshop pictures]({{ "/img/lc_workshop.jpg" | prepend: site.baseurl }})
 <br>
-![Group shot]({{ "/img/20180504_155835_014.jpg" | prepend: site.baseurl }})
+![Group shot]({{ "/img/melbgroupshot.jpg" | prepend: site.baseurl }})
