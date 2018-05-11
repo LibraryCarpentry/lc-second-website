@@ -12,7 +12,7 @@ people:
 - name: Belinda Weaver (Australia)
   position: Community and Communications Lead, The Carpentries
   social:
-    - title: fab fa-twitter
+    - icon: fab fa-twitter
       url: https://twitter.com/cloudaus
     - title: fab fa-github
       url: https://github.com/weaverbel
