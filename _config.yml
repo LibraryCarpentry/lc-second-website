@@ -39,9 +39,13 @@ people:
       url: https://twitter.com/CuratorKay
       
 - name: Cam Macdonell (Canada)
+  pic: cammacdonell
   social:
     - title: fab fa-twitter
-      url: https://github.com/cmacdonell      
+      url: https://twitter.com/cjmacdonell
+    - title: fab fa-github 
+      url: https://github.com/cmacdonell 
+  
 - name: Juliane Schneider (USA)
   social:
     - title: fab fa-twitter
