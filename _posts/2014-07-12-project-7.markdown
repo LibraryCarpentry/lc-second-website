@@ -1,15 +1,15 @@
 ---
 title: Tidy data for librarians
-subtitle: Good data organization is the foundation of much of our day-to-day work in libraries.
+subtitle: An introduction to good data organisation, which is the foundation of much of our day-to-day work in libraries.
 layout: default
 modal-id: 7
 date: 2014-07-12
-img: sssh.jpg
-thumbnail: sssh.jpg
+img: sheets.jpg
+thumbnail: sheets.jpg
 alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-spreadsheets/
 client: Jez Cope
 category: workshop
-description: Good data organization is the foundation of much of our day-to-day work in libraries. Most librarians have data or do data entry in spreadsheets.
+description: Good data organization is the foundation of much of our day-to-day work in libraries. Most librarians have data or do data entry using spreadsheets.
 tags: Alpha
 ---
