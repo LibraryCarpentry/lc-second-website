@@ -10,6 +10,7 @@ description: "Software and data skills for librarians"
 # Team names, titles and social links
 people:
 - name: Jez Cope (UK)
+  pic: jezcope
   social:
     - title: fab fa-twitter
       url: https://twitter.com/jezcope
