@@ -17,6 +17,6 @@ I taught the rest with help from Peter,
 
 We has a few snafus wth unco-operative shells and site workarounds, but on the whole, the day went well.
 
-![Workshop pictures]({{ site.url}} /img/20180504_105021.jpg)
+![Workshop pictures]({{ "/img/20180504_105021.jpg" | prepend: site.baseurl }})
 ![Workshop pictures](../img/20180504_105026.jpg)
 ![Group shot](../img/20180504_155835_014.jpg)
