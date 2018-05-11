@@ -4,8 +4,8 @@ subtitle: An introduction to command line interfaces and task automation using t
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: webscrape.jpg
-thumbnail: webscrape.jpg
+img: web_scrape.jpg
+thumbnail: web_scrape.jpg
 alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-shell/
 client: Belinda Weaver and Tim Dennis
