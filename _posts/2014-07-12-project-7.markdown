@@ -4,8 +4,8 @@ subtitle: An introduction to good data organisation, which is the foundation of 
 layout: default
 modal-id: 7
 date: 2014-07-12
-img: sheets.jpg
-thumbnail: sheets.jpg
+img: sheet.jpg
+thumbnail: sheet.jpg
 alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-spreadsheets/
 client: Jez Cope
