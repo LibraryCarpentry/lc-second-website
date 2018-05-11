@@ -1,6 +1,6 @@
 ---
 title: OpenRefine
-subtitle: An introduction to cleaning and enhancing data using OpenRefine
+subtitle: An introduction to cleaning up and enhancing a dataset using OpenRefine
 layout: default
 modal-id: 3
 date: 2014-07-16
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-open-refine/
 client: Owen Stephens, Juliane Schneider, and Carmi Cronje
 category: workshop
-description: This Library Carpentry lesson introduces librarians to working with data in OpenRefine. At the conclusion of the lesson, you will&#58; understand what the OpenRefine software does; use the OpenRefine software to work with and clean up data files.
+description: This lesson introduces librarians to working with data in OpenRefine. At the conclusion of the lesson, you will&#58; be able to facet and filter data in OpenRefine; split multi-valued cells; cluster and mass-edit data; split and join columns; mass-edit cells; and use an API to import data to enhance the dataset.
 tags: Stable
 ---
