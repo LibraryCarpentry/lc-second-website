@@ -19,6 +19,6 @@ We has a few snafus wth unco-operative shells and site workarounds, but on the w
 
 !Peter teaching]({{ "/img/peter_teach.jpg" | prepend: site.baseurl }})
 <br>
-![Workshop pictures]({{ "/img/lc_workshop.jpg" | prepend: site.baseurl }})
+![Workshop pictures]({{ "/img/lcmelb.jpg" | prepend: site.baseurl }})
 <br>
 ![Group shot]({{ "/img/melbgroupshot.jpg" | prepend: site.baseurl }})
