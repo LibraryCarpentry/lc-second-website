@@ -1,6 +1,6 @@
 ---
 title: Unix Shell
-subtitle: An introduction to the Unix Shell
+subtitle: An introduction to command line interfaces and task automation using the Unix shell
 layout: default
 modal-id: 2
 date: 2014-07-17
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-shell/
 client: Belinda Weaver and Tim Dennis
 category: workshop
-description: Introduces the Unix-style command line interface, allowing you to efficiently work with directories and files, and to find, count, and manipulate data.
+description: This lesson introduces the Unix-style command line interface. This lessons teaches basic shell navigation, as well as the use of `loops` and pipes for linking shell commands. It also introduces `grep` for searching across files. Exercises cover the counting and mining of data.
 tags: Stable
 ---
