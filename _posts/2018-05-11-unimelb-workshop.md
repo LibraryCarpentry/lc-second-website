@@ -23,6 +23,6 @@ I taught the rest with help from Peter,
 
 We has a few snafus wth unco-operative shells and site workarounds, but on the whole, the day went well.
 
-here are the happy campers!
+Here are the happy campers!
 
 ![Group shot]({{ "/img/melbgroupshot.jpg" | prepend: site.baseurl }})
