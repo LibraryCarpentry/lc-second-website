@@ -24,6 +24,7 @@ people:
       url: https://github.com/jt14den  
 
 - name: Chris Erdmann (USA)
+  pic: chriserdmann
   social:
     - title: fab fa-twitter
       url: https://twitter.com/libcce
@@ -54,7 +55,7 @@ people:
       url: https://github.com/richyvk 
  
 - name: Belinda Weaver (Convenor - Australia)
-  image: belindaweaver.jpg
+  pic: belindaweaver
   social:
     - title: fab fa-twitter
       url: https://twitter.com/cloudaus
