@@ -1,6 +1,6 @@
 ---
 title: Data intro for librarians
-subtitle: An introduction to data structures and computing terminology
+subtitle: An introduction to data structures, regular expressions, and computing terms
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-data-intro/
 client: Carmi Cronje and James Baker
 category: workshop
-description: This Library Carpentry lesson introduces librarians to working with data structures. At the conclusion of the lesson you will&#58; understand terms, phrases, and concepts in software development and data science; identify and use best practice in data structures; use regular expressions in searches.
+description: This Library Carpentry lesson introduces librarians to working with data structures. At the conclusion of the lesson, you will&#58; have been introduced to terms, phrases, and concepts in software development and data science; be able to identify and use best practice in data structures; be able to use regular expressions in searches.
 tags: Stable
 ---
