@@ -5,6 +5,8 @@ authors: "Belinda Weaver"
 category: blog
 ---
 
+Post by [Belinda Weaver](https://twitter.com/cloudaus).
+
 [Peter Neish](https://twitter.com/peterneish) and I taught a one-day 
 [Library Carpentry workshop](https://weaverbel.github.io/2018-05-04-unimelb-lc/) to around 24 library staff at the 
 University of Melbourne on 4 May.
