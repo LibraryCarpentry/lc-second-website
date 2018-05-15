@@ -1,5 +1,5 @@
-url: https://librarycarpentry.github.io
-baseurl: /new-website
+url: https://librarycarpentry.org
+baseurl: /
 
 # Site settings
 title: Library Carpentry
