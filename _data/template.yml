@@ -1,9 +1,9 @@
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 990000
-  secondary: ffc6b3
-  secondary-dark: 333
-  muted: 777
+  primary: "990000"
+  secondary: "ffc6b3"
+  secondary-dark: "333"
+  muted: "777"
 
 # Font Families
 font:
