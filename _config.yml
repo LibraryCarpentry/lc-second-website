@@ -6,7 +6,6 @@ title: Library Carpentry
 email: team@carpentries.org
 description: "Software and data skills for librarians"
 
-
 # Team names, titles and social links
 people:
 - name: John Chodacki (USA)
@@ -33,7 +32,7 @@ people:
     - title: fab fa-github
       url: https://github.com/jt14den  
 
-- name: Chris Erdmann (Coordinator - USA)
+- name: Chris Erdmann (Coordinator, USA)
   pic: chriserdmann
   social:
     - title: fab fa-twitter
