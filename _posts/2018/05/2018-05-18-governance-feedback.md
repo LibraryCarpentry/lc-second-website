@@ -24,7 +24,7 @@ items on our [governance call etherpad](http://pad.software-carpentry.org/lc-gov
 2. We are currently seeking input on the [question](https://github.com/LibraryCarpentry/governance/issues/1) 
 of "What does a workshop need to consist of to be badged Library Carpentry?" That is, what should be taught as 'core'? How long should the workshop be? 
 
-Please feel free to have your say by [contributiing your thoughts on the issue](https://github.com/LibraryCarpentry/governance/issues/1).
+Please feel free to have your say by [contributing your thoughts on the issue](https://github.com/LibraryCarpentry/governance/issues/1).
 The issue is open to all in this community, not just the governance group.
 
 3. We are also interested in 'onboarding' existing Carpentries' instructors. We have an [issue to address that](https://github.com/LibraryCarpentry/new-website/issues/6), 
