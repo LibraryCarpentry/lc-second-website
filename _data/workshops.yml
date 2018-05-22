@@ -597,7 +597,7 @@ workshops:
     who: "Evamaria Krause"
     numbers: null
     what: "Intro, OpenRefine, Python, Git"
-    url: "https://evamarik.github.io/2018-07-03-giessen/"
+    url: "https://evamarik.github.io/2018-06-25-marburg/"
     notes: "See also https://www.vdb-online.org/veranstaltung/767/ (in German)"
     blogs: null
 workshops_future: *id_ws_future
