@@ -4,7 +4,7 @@ subtitle: An introduction to cleaning up and enhancing a dataset using OpenRefin
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: open_ref.jpg
+img: open-ref.jpg
 thumbnail: open-ref.jpg
 alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-open-refine/
