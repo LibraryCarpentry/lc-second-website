@@ -1,6 +1,6 @@
 ---
 title: Webscraping
-subtitle: An introduction to extracting structured data from websites suing a range of tools
+subtitle: An introduction to extracting structured data from websites using a range of tools
 layout: default
 modal-id: 6
 date: 2014-07-13
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: https://librarycarpentry.github.io/lc-webscraping/
 client: Belinda Weaver and Thomas Guignard
 category: workshop
-description: Web scraping is the process of extracting structured data from websites. This lesson will intorduce a number of ways that data can be extracted.
+description: Web scraping is the process of extracting structured data from websites. This lesson will introduce a number of ways that data can be extracted.
 tags: Alpha
 ---
