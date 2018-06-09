@@ -563,7 +563,6 @@ workshops:
     what: "Intro to Data, OpenRefine, RegEx, Shell"
     url: "https://weaverbel.github.io/2018-05-04-unimelb-lc//"
     blogs: null
-- &id_ws_future # future workshops: move this line down as time passes
   - venue: "UCLA Library"
     start: 2018-05-24
     end: 2018-05-25
@@ -587,6 +586,7 @@ workshops:
     what: "Intro, OpenRefine, Python"
     url: "http://www.tim-dennis.com/2018-06-10-baltimore-sla/"
     blogs: null
+- &id_ws_future # future workshops: move this line down as time passes
   - venue: "Marburg, Germany"
     start: 2018-06-25
     end: 2018-06-26
@@ -599,6 +599,19 @@ workshops:
     what: "Intro, OpenRefine, Python, Git"
     url: "https://evamarik.github.io/2018-06-25-marburg/"
     notes: "See also https://www.vdb-online.org/veranstaltung/767/ (in German)"
+    blogs: null
+  - venue: "Cologne, Germany"
+    start: 2018-11-12
+    end: 2018-11-13
+    eventbrite_id: ''
+    humandate: 12-13 November, 2018
+    latitude: 50.925970
+    longitude: 6.928460
+    who: "Evamaria Krause"
+    numbers: null
+    what: "Intro, OpenRefine, Python, Git"
+    url: "https://evamarik.github.io/2018-11-12-cologne/"
+    notes: "See also https://www.vdb-online.org/veranstaltung/800/ (in German)"
     blogs: null
 workshops_future: *id_ws_future
 workshops_past: *id_ws_past
