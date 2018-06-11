@@ -563,7 +563,6 @@ workshops:
     what: "Intro to Data, OpenRefine, RegEx, Shell"
     url: "https://weaverbel.github.io/2018-05-04-unimelb-lc//"
     blogs: null
-- &id_ws_future # future workshops: move this line down as time passes
   - venue: "UCLA Library"
     start: 2018-05-24
     end: 2018-05-25
@@ -587,6 +586,7 @@ workshops:
     what: "Intro, OpenRefine, Python"
     url: "http://www.tim-dennis.com/2018-06-10-baltimore-sla/"
     blogs: null
+- &id_ws_future # future workshops: move this line down as time passes
   - venue: "Marburg, Germany"
     start: 2018-06-25
     end: 2018-06-26
