@@ -600,6 +600,15 @@ workshops:
     url: "https://evamarik.github.io/2018-06-25-marburg/"
     notes: "See also https://www.vdb-online.org/veranstaltung/767/ (in German)"
     blogs: null
+  - venue: "University of Otago, NZ"
+    start: 2018-07-05
+    end: 2018-07-05
+    eventbrite_id: ''
+    humandate: 5 July, 2018
+    latitude: -45.864683 
+    longitude: 170.514423
+    who: "Belinda Weaver"
+    numbers: null
   - venue: "University of Canterbury, NZ"
     start: 2018-07-09
     end: 2018-07-09
