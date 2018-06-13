@@ -600,6 +600,42 @@ workshops:
     url: "https://evamarik.github.io/2018-06-25-marburg/"
     notes: "See also https://www.vdb-online.org/veranstaltung/767/ (in German)"
     blogs: null
+  - venue: "University of Canterbury, NZ"
+    start: 2018-07-09
+    end: 2018-07-09
+    eventbrite_id: ''
+    humandate: 9 July, 2018
+    latitude: -43.5235336
+    longitude: 172.5817293
+    who: "Belinda Weaver"
+    numbers: null
+    what: "Data intro, Regex, OpenRefine, Shell"
+    url: "https://weaverbel.github.io/2018-07-09-canterbury/"
+    blogs: null
+  - venue: "Massey University, NZ"
+    start: 2018-07-11
+    end: 2018-07-11
+    eventbrite_id: ''
+    humandate: 11 July, 2018
+    latitude: -40.3844303
+    longitude: 175.5961245
+    who: "Belinda Weaver"
+    numbers: null
+    what: "Data intro, Regex, OpenRefine, Shell"
+    url: "https://weaverbel.github.io/2018-07-11-massey/"
+    blogs: null
+  - venue: "University of Auckland, NZ"
+    start: 2018-07-12
+    end: 2018-07-12
+    eventbrite_id: ''
+    humandate: 12 July, 2018
+    latitude: -40.3844303
+    longitude: 175.5961245
+    who: "Belinda Weaver"
+    numbers: null
+    what: "Data intro, Regex, OpenRefine, Shell"
+    url: "https://weaverbel.github.io/2018-07-12-auckland/"
+    blogs: null
   - venue: "Cologne, Germany"
     start: 2018-11-12
     end: 2018-11-13
