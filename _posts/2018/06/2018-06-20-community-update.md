@@ -5,6 +5,8 @@ title: "Library Carpentry Community Update"
 category: ["blog"]
 ---
 
+By [Chris Erdmann](https://twitter.com/libcce), [Belinda Weaver](https://twitter.com/cloudaus)
+
 ### Report-back from CarpentryCon and the latest governance call
 
 Things are moving along nicely in the Library Carpentry community, helped by regular meetings of the governance group and lots of face to face talking at the recent CarpentryCon event in Dublin, where we ran a Library Carpentry Onboarding Workshop.  Many people at CarpentryCon were keen to talk Library Carpentry. We are now firming up our ideas about our audience, and what constitutes a workshop, and we are currently discussing how we can get more workshops organised and more instructors trained. (We hope to announce an instructor training event shortly.)
