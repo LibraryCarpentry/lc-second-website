@@ -645,16 +645,16 @@ workshops:
     what: "Data intro, Regex, OpenRefine, Shell"
     url: "https://weaverbel.github.io/2018-07-12-auckland/"
     blogs: null
-  - venue: "Lawrence, Kansas"
+  - venue: "Lawrence, Kansas, USA"
     start: 2018-07-11
     end: 2018-07-31
     eventbrite_id: ''
     humandate: 11-31 July, 2018
-    latitude: 50.925970
-    longitude: 6.928460
-    who: "Brooks-Kieffer, Jamene"
+    latitude: 38.9543439
+    longitude: -95.2557961
+    who: "Jamene Brooks-Kieffer"
     numbers: null
-    what: "Intro, OpenRefine, SQL, Workflow Enhancement Tools"
+    what: "Intro to Data, OpenRefine, SQL, Workflow Enhancement Tools"
     url: "https://lib.ku.edu/library-carpentry"
     notes: ""
     blogs: null    
@@ -670,6 +670,19 @@ workshops:
     what: "Intro, OpenRefine, Python, Git"
     url: "https://evamarik.github.io/2018-11-12-cologne/"
     notes: "See also https://www.vdb-online.org/veranstaltung/800/ (in German)"
+    blogs: null
+  - venue: "Murfreesboro, Tennessee, USA"
+    start: 2019-01-07
+    end: 2019-01-09
+    eventbrite_id: ''
+    humandate: 7-9 January, 2019
+    latitude: 35.8486105
+    longitude: -86.3648813
+    who: "Chris Erdmann"
+    numbers: null
+    what: "Intro to Data, Shell, OpenRefine, Git, Python"
+    url: "https://libcce.github.io/2019-01-07-MTSU/"
+    notes: "Organized via MTSU and Tenn-Share"
     blogs: null
 workshops_future: *id_ws_future
 workshops_past: *id_ws_past
