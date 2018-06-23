@@ -645,7 +645,7 @@ workshops:
     what: "Data intro, Regex, OpenRefine, Shell"
     url: "https://weaverbel.github.io/2018-07-12-auckland/"
     blogs: null
-  - venue: "Lawrence, Kansas, USA"
+  - venue: "Lawrence, KS, USA"
     start: 2018-07-11
     end: 2018-07-31
     eventbrite_id: ''
@@ -671,7 +671,7 @@ workshops:
     url: "https://evamarik.github.io/2018-11-12-cologne/"
     notes: "See also https://www.vdb-online.org/veranstaltung/800/ (in German)"
     blogs: null
-  - venue: "Murfreesboro, Tennessee, USA"
+  - venue: "Murfreesboro, TN, USA"
     start: 2019-01-07
     end: 2019-01-09
     eventbrite_id: ''
