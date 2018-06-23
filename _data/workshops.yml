@@ -645,6 +645,19 @@ workshops:
     what: "Data intro, Regex, OpenRefine, Shell"
     url: "https://weaverbel.github.io/2018-07-12-auckland/"
     blogs: null
+  - venue: "Lawrence, Kansas"
+    start: 2018-07-11
+    end: 2018-07-31
+    eventbrite_id: ''
+    humandate: 11-31 July, 2018
+    latitude: 50.925970
+    longitude: 6.928460
+    who: "Brooks-Kieffer, Jamene"
+    numbers: null
+    what: "Intro, OpenRefine, SQL, Workflow Enhancement Tools"
+    url: "https://lib.ku.edu/library-carpentry"
+    notes: ""
+    blogs: null    
   - venue: "Cologne, Germany"
     start: 2018-11-12
     end: 2018-11-13
