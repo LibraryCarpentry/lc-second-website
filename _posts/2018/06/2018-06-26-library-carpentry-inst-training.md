@@ -58,7 +58,7 @@ at [https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html](ht
 - Complete three short tasks after the course in order to complete the certification. 
 
 The tasks take a total of approximately 8-10 hours: 
-see [http://swcarpentry.github.io/instructor-training/checkout/](http://swcarpentry.github.io/instructor-training/checkout/) for 
+see [http://carpentries.github.io/instructor-training/checkout/](http://carpentries.github.io/instructor-training/checkout/) for 
 details. 
 
 ## Costs 
@@ -84,6 +84,6 @@ otherwise, your application will not be considered.
 
 ## More information 
 
-If you have any questions about this instructor training course, please contact chris@carpentries.org. 
+If you have any questions about this instructor training course, please contact [chris@carpentries.org](mailto:chris@carpentries.org). 
 And if you have any questions about the Library Carpentry movement, 
 please [get in touch with us](https://librarycarpentry.org/#contact).
