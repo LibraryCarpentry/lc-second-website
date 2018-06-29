@@ -657,7 +657,20 @@ workshops:
     what: "Intro to Data, OpenRefine, SQL, Workflow Enhancement Tools"
     url: "https://lib.ku.edu/library-carpentry"
     notes: ""
-    blogs: null    
+    blogs: null   
+  - venue: "St. Catharines, Canada"
+    start: 2018-08-13
+    end: 2018-08-14
+    eventbrite_id: ''
+    humandate: 13-14 August, 2018
+    latitude: 43.1175731
+    longitude: -79.2476925
+    who: "Tim Ribaric"
+    numbers: null
+    what: "Intro to Data, Shell, Git, OpenRefine"
+    url: "https://elibtronic.github.io/2018-08-13-BrockU/"
+    notes: ""
+    blogs: null
   - venue: "Calgary, Canada"
     start: 2018-08-28
     end: 2018-08-29
