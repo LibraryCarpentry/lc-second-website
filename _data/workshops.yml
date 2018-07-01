@@ -671,6 +671,19 @@ workshops:
     url: "https://elibtronic.github.io/2018-08-13-BrockU/"
     notes: ""
     blogs: null
+  - venue: "Los Angeles, CA, USA"
+    start: 2018-08-27
+    end: 2018-08-28
+    eventbrite_id: ''
+    humandate: 27-28 August, 2018
+    latitude: 
+    longitude: 
+    who: "Tim DEnnis"
+    numbers: null
+    what: "Intro to Data,Tidy Data for Librarians, Python"
+    url: "https://ucla-data-archive.github.io/2018-08-28-usc/"
+    notes: ""
+    blogs: null   
   - venue: "Calgary, Canada"
     start: 2018-08-28
     end: 2018-08-29
