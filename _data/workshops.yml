@@ -678,9 +678,9 @@ workshops:
     humandate: 28-29 August, 2018
     latitude: 
     longitude: 
-    who: "Tim DEnnis"
+    who: "Tim Dennis"
     numbers: null
-    what: "Intro to Data,Tidy Data for Librarians, Python"
+    what: "Intro to Data, Tidy Data for Librarians, Python"
     url: "https://ucla-data-archive.github.io/2018-08-28-usc/"
     notes: ""
     blogs: null   
@@ -696,7 +696,20 @@ workshops:
     what: "Intro to Data, Shell, Git, OpenRefine"
     url: "https://libcce.github.io/2018-08-28-calgary/"
     notes: ""
-    blogs: null       
+    blogs: null
+  - venue: "Calgary, Canada"
+    start: 2018-08-30
+    end: 2018-08-31
+    eventbrite_id: ''
+    humandate: 30-31 August, 2018
+    latitude: 51.077598
+    longitude: -114.129888
+    who: "Juliane Schneider"
+    numbers: null
+    what: "Carpentries Instructor Training for Librarians"
+    url: "https://pitviper6.github.io/2018-08-30-ttt-calgary/"
+    notes: ""
+    blogs: "https://librarycarpentry.org/blog/2018/06/26/library-carpentry-inst-training/"
   - venue: "Cologne, Germany"
     start: 2018-11-12
     end: 2018-11-13
