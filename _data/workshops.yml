@@ -586,7 +586,6 @@ workshops:
     what: "Intro, OpenRefine, Python"
     url: "http://www.tim-dennis.com/2018-06-10-baltimore-sla/"
     blogs: null
-- &id_ws_future # future workshops: move this line down as time passes
   - venue: "Marburg, Germany"
     start: 2018-06-25
     end: 2018-06-26
@@ -600,6 +599,7 @@ workshops:
     url: "https://evamarik.github.io/2018-06-25-marburg/"
     notes: "See also https://www.vdb-online.org/veranstaltung/767/ (in German)"
     blogs: null
+- &id_ws_future # future workshops: move this line down as time passes
   - venue: "University of Otago, NZ"
     start: 2018-07-05
     end: 2018-07-05
