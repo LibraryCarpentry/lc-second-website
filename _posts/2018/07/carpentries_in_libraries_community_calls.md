@@ -5,6 +5,7 @@ title: "Carpentries in the Libraries Community Calls"
 teaser: "Time to talk about data and software skills in libraries"
 date: 2018-06-11
 tags: ["Library Carpentry", "Community Calls"]
+category: ["blog"]
 ---
 
 By Chris Erdmann
