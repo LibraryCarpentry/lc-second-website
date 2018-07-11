@@ -21,23 +21,17 @@ For the calls, we will use a [collaborative etherpad](http://pad.software-carpen
 
 **6 August @ 20:00 UTC** 
 [Shelley Stall](https://twitter.com/ShelleyStall), Director of Data Programs at American Geophysical Union
-
 _Topic_: Brief update on Findable, Accessible, Interoperable, and Reusable ([FAIR](https://www.force11.org/group/fairgroup/fairprinciples)) data & software and how can librarians get involved
-
 [See time and date in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20180820T20&p1=1440&ah=1)
 
 **24 September @ 20:00 UTC**
 [Tara Vancil](https://twitter.com/taravancil), In charge of words, product, website at [Beaker](https://beakerbrowser.com/), a browser for the peer to peer web
-
 _Topic:_ Peer to peer web for librarians
-
 [See time and date in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20180924T20&ah=1)
 
 **1 October @ 20:00 UTC**
 [Tim Head](https://twitter.com/betatim), Python and Stats Consultant, Building Binder at Wild Tree Tech
-
 _Topic:_ [Binder](https://mybinder.org/), a tool to help researchers make their code immediately reproducible
-
 [See time and date in your sone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20181001T20&ah=1)
 
 You can also add the [public calendar](https://calendar.google.com/calendar/embed?src=carpentries.org_b1ulp7pe6lk5ff7499k2mriq4s%40group.calendar.google.com&ctz=America%2FNew_York).
