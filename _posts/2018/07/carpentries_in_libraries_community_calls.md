@@ -33,7 +33,7 @@ _Topic:_ Peer to peer web for librarians
 _Topic:_ [Binder](https://mybinder.org/), a tool to help researchers make their code immediately reproducible
 [See time and date in your sone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20181001T20&ah=1)
 
-You can also add the public calendar.
+You can also add the [public calendar](https://calendar.google.com/calendar/embed?src=carpentries.org_b1ulp7pe6lk5ff7499k2mriq4s%40group.calendar.google.com&ctz=America%2FNew_York).
 
 If you would like to suggest speakers for upcoming calls, please email your ideas to [discuss-library-carpentry@lists.carpentries.org](https://carpentries.topicbox.com/groups/discuss-library-carpentry), suggest names in the etherpad, or contact [chris@carpentries.org](mailto:chris@carpentries.org). 
 
