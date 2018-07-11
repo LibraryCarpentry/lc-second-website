@@ -3,12 +3,13 @@ layout: blog-post
 authors: ["Chris Erdmann"]
 title: "Carpentries in the Libraries Community Calls"
 teaser: "Time to talk about data and software skills in libraries"
-date: 2018-06-11
 tags: ["Library Carpentry", "Community Calls"]
 category: ["blog"]
 ---
 
 By Chris Erdmann
+
+## Time to talk about data and software skills in libraries
 
 One of the strengths of The Carpentries is its community and libraries are great places to foster conversations around data and software skills. There are a number of places where our community can have conversations and get involved - these include our Library Carpentry [GitHub](https://github.com/LibraryCarpentry), [Gitter channel](https://gitter.im/LibraryCarpentry/Lobby), and [Topicbox list](https://carpentries.topicbox.com/groups/discuss-library-carpentry). Now there is another option. Starting in August, we will start a monthly online calls series for one hour with the following format:
 
