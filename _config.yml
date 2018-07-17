@@ -69,15 +69,7 @@ people:
       url: https://twitter.com/cloudaus
     - title: fab fa-github
       url: https://github.com/weaverbel
-      
-- name: Greg Wilson (Canada) (Advisory Role)
-  pic: gregwilson
-  social:
-    - title: fab fa-twitter
-      url: https://twitter.com/gvwilson  
-    - title: fab fa-github
-      url: https://github.com/gvwilson 
-                  
+                
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: fab fa-twitter
