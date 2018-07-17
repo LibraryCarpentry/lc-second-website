@@ -32,12 +32,12 @@ _Topic:_ Peer to peer web for librarians
 **1 October @ 20:00 UTC**  
 [Tim Head](https://twitter.com/betatim), Python and Stats Consultant, Building Binder at Wild Tree Tech  
 _Topic:_ [Binder](https://mybinder.org/), a tool to help researchers make their code immediately reproducible  
-[See time and date in your sone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20181001T20&ah=1)
+[See time and date in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20181001T20&ah=1)
 
 **5 November @ 20:00 UTC**  
 [Konrad Foerstner](https://twitter.com/konradfoerstner), Professor for Information Literacy at the [Technical University of Cologne](https://www.th-koeln.de/en/) and Head of Information services at [ZB MED](https://www.zbmed.de/en/) - Information Center for Life Sciences  
 _Topic:_ Leveraging The Carpentries to grow library services   
-[See time and date in your sone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20181105T20&ah=1)
+[See time and date in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20181105T20&ah=1)
 
 You can also add the [public calendar](https://calendar.google.com/calendar/embed?src=carpentries.org_b1ulp7pe6lk5ff7499k2mriq4s%40group.calendar.google.com&ctz=America%2FNew_York).
 
