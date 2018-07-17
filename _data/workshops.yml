@@ -599,7 +599,6 @@ workshops:
     url: "https://evamarik.github.io/2018-06-25-marburg/"
     notes: "See also https://www.vdb-online.org/veranstaltung/767/ (in German)"
     blogs: null
-- &id_ws_future # future workshops: move this line down as time passes
   - venue: "University of Otago, NZ"
     start: 2018-07-05
     end: 2018-07-05
@@ -645,6 +644,7 @@ workshops:
     what: "Data intro, Regex, OpenRefine, Shell"
     url: "https://weaverbel.github.io/2018-07-12-auckland/"
     blogs: null
+- &id_ws_future # future workshops: move this line down as time passes
   - venue: "Lawrence, KS, USA"
     start: 2018-07-11
     end: 2018-07-31
