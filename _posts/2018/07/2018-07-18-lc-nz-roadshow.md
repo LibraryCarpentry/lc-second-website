@@ -81,4 +81,10 @@ On my last day, I managed to get down to the Auckland harbour and very nice it w
 ### I am grateful !
 
 Thanks again to everyone who came along and either learned or helped at the workshops, and thanks 
-again to Annette Beattie and [Universities New Zealand](https://www.universitiesnz.ac.nz/) for funding the trip.
+again to Annette Beattie and [Universities New Zealand](https://www.universitiesnz.ac.nz/) for funding the trip. 
+
+Thanks Jonah and ALeksandra for saving my voice!
+
+Thanks also to Mik Black at the University of Otago for including Library Carpentry at ResBaz Dunedin and for giving me a chance to talk up The Carpentries there as well. 
+
+Also thanks to Gillan Elliott, formerly of the University of Otago Library, for her enthusiasm about and support for Library Carpentry at Otago.
