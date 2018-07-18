@@ -73,7 +73,7 @@ It is also worth engaging with the Library Carpentry community worldwide.
 
 ### Obligatory tourist shoot
 
-While I was venturing very far south in the dead of winter on this roadshow, New Zealand did turn on some glorious sunny days. 
+While I was venturing very far south in the dead of winter for this roadshow, New Zealand did turn on some glorious sunny days. 
 On my last day, I managed to get down to the Auckland harbour and very nice it was!
 
 ![Auckland harbour](/img/auckharbour.jpg)
@@ -81,10 +81,10 @@ On my last day, I managed to get down to the Auckland harbour and very nice it w
 ### I am grateful !
 
 Thanks again to everyone who came along and either learned or helped at the workshops, and thanks 
-again to Annette Beattie and [Universities New Zealand](https://www.universitiesnz.ac.nz/) for funding the trip. 
+again to Annette Beattie and [Universities New Zealand](https://www.universitiesnz.ac.nz/) for funding the roadshow. 
 
-Thanks Jonah and ALeksandra for saving my voice!
+Thanks Jonah and Aleksandra for saving my voice!
 
-Thanks also to Mik Black at the University of Otago for including Library Carpentry at ResBaz Dunedin and for giving me a chance to talk up The Carpentries there as well. 
+Thanks also to Mik Black at the University of Otago for including Library Carpentry at [ResBaz Dunedin](https://resbaz.github.io/resbaz2018/dunedin/) and for giving me a chance to talk up [The Carpentries](https://carpentries.org) to the audiences there as well. 
 
-Also thanks to Gillan Elliott, formerly of the University of Otago Library, for her enthusiasm about and support for Library Carpentry at Otago.
+Also thanks to [Gillian Elliott](https://twitter.com/GillOtago), formerly of the University of Otago Library, for her early enthusiasm about and support for Library Carpentry at Otago.
