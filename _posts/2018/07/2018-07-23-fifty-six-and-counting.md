@@ -90,3 +90,7 @@ now at the University of Sussex), who came up with the idea of adapting Software
 to teach librarians digital skills. Along with Daniel van Strien and Owen Stephens, James ran the first Library Carpentry 
 workshop in London in November 2015. The course was taught in four evening sessions over four weeks. 
 
+The [2016 Library Carpentry two-day sprint](https://software-carpentry.org/blog/2016/06/library-carpentry-sprint.html) saw twenty people from six countries work on the lessons and begin to build a global community.
+
+In 2016, Library Carpentry won the British Library Labs Teaching and Learning Award.
+
