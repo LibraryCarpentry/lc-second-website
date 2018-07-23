@@ -35,7 +35,7 @@ South Africa should soon tick over to four.
 | Switzerland | 1 |
 | TOTAL | 56 |
 
-Australian workshop numbers have been augmented by the [National and State Libraries of Australasia](https://www.nsla.org.au/) (NSLA),
+Australian workshop numbers have been augmented by the [National and State Libraries of Australia](https://www.nsla.org.au/) (NSLA),
 who funded an Australian
 capital cities roadshow taught by Belinda Weaver in 2017. [Universities New Zealand](https://www.universitiesnz.ac.nz/) 
 have also kicked in funding, 
