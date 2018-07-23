@@ -88,7 +88,8 @@ in a bit less than half the workshops, while Git and Python have been taught muc
 Library Carpentry was the brainchild of [Dr. James Baker](https://twitter.com/j_w_baker), (then at the British Library, 
 now at the University of Sussex), who came up with the idea of adapting Software Carpentry lessons and teaching methods 
 to teach librarians digital skills. Along with Daniel van Strien and Owen Stephens, James ran the first Library Carpentry 
-workshop in London in November 2015. The course was taught in four evening sessions over four weeks. 
+workshop in London in November 2015. The course was taught in four evening sessions over four week, and James's work on
+this was supported by a fellowship with the [Software Sustainability Institute](https://software.ac.uk/). 
 
 The [2016 Library Carpentry two-day sprint](https://software-carpentry.org/blog/2016/06/library-carpentry-sprint.html) saw twenty people from six countries work on the lessons and begin to build a global community.
 
