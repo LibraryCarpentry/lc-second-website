@@ -24,7 +24,7 @@ FAIR was mentioned in at least 23 of the sessions:
 
 Researchers are already starting to ask, _How can my research be more FAIR?_ Thanks to 
 [Angelina Kraft](https://www.tib.eu/en/research-development/non-textual-materials/focus-of-work/research-data/) 
-(team lead research data and scientific software) and 
+(team lead, research data and scientific software) and 
 [Katrin Leinweber](https://www.tib.eu/en/research-development/non-textual-materials/focus-of-work/scientific-software/) 
 (research assistant) at TIB Hannover, we have a headstart on developing a training program for the research community on 
 FAIR Data and Software. Angelina and Katrin were joined by Carpentries instructors 
