@@ -710,6 +710,19 @@ workshops:
     url: "https://pitviper6.github.io/2018-08-30-ttt-calgary/"
     notes: ""
     blogs: "https://librarycarpentry.org/blog/2018/06/26/library-carpentry-inst-training/"
+- venue: "HEANet, Dublin, Ireland"
+    start: 2018-08-31
+    end: 2018-08-31
+    eventbrite_id: ''
+    humandate: 31 August, 2018
+    latitude: 53.3496182
+    longitude: -6.2488661
+    who: "David Kane, Glenn Wearen, Peter Fleming"
+    numbers: null
+    what: "Intro to Data and UNIX Shell"
+    url: "https://www.heanet.ie/"
+    notes: ""
+    blogs: ""
   - venue: "Cologne, Germany"
     start: 2018-11-12
     end: 2018-11-13
