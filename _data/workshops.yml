@@ -710,7 +710,7 @@ workshops:
     url: "https://pitviper6.github.io/2018-08-30-ttt-calgary/"
     notes: ""
     blogs: "https://librarycarpentry.org/blog/2018/06/26/library-carpentry-inst-training/"
-- venue: "HEANet, Dublin, Ireland"
+  - venue: "HEANet, Dublin, Ireland"
     start: 2018-08-31
     end: 2018-08-31
     eventbrite_id: ''
@@ -723,6 +723,19 @@ workshops:
     url: "https://www.heanet.ie/"
     notes: ""
     blogs: ""
+  - venue: "UNC Library-SILS, Chapel Hill, NC, USA"
+    start: 2018-10-18
+    end: 2018-10-19
+    eventbrite_id: ''
+    humandate: 18-19 October, 2018
+    latitude: 35.911048
+    longitude: -79.0502437
+    who: "Chris Erdmann, Zac Painter, Lorin Bruckner, Matt Jansen, Nathan Kelber"
+    numbers: null
+    what: "Intro to Data, UNIX Shell, Git, OpenRefine"
+    url: "https://libcce.github.io/2018-10-18-UNC/"
+    notes: ""
+    blogs: null
   - venue: "Cologne, Germany"
     start: 2018-11-12
     end: 2018-11-13
