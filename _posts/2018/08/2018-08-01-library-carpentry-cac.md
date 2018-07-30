@@ -29,10 +29,7 @@ In the meantime, I wanted to welcome Carmi, Katrin, Mark, Tim, and Erika and tha
 
 #### Carmi Cronje
 
-I'm interested in learning about the Library Carpentry community's needs in Australia, keeping in tune with new tech 
-developments and working with CAC to evaluate which can be put in the pipeline for future lesson development. 
-Supporting and fostering communication between lesson maintainers to optimise processes for the 
-community to contribute to lesson development is also a priority.
+Thank you for this opportunity! I'm interested in learning more about training needs in Australia, keeping in touch with new tech/skills required to meet those needs, and working with the committee to evaluate which can be put in the pipeline for future lesson development. Supporting and fostering communication between lesson maintainers to optimise processes for the community to contribute to lesson development is also a priority.
 
 #### Katrin Leinweber
 
