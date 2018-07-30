@@ -13,11 +13,9 @@ Sixty-nine Library Carpentry workshops have now been taught around the world, in
 
 With this milestone behind us, it is important to pause and appreciate what has been achieved so far by the community. Since 2015, more than 99 instructors and 121 helpers, 220 in total, have contributed to Library Carpentry training events in 13 countries. We have collaboratively developed open educational lessons to teach software and data skills for anyone who works in libraries or similar organizations.
 
-<embed map here>
-Map
-https://www.google.com/maps/d/u/0/edit?mid=1MiFSA6XO1KHmUuUwiP4VXnOSHlIhAXPW&ll=50.9233733511093%2C0&z=2
-Spreadsheet
-https://docs.google.com/spreadsheets/d/1ekCHTBRtTO0vAWIq8YER49ZLwh18PYPGbgJtZ5V9rgw/edit#gid=1110089093 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1MiFSA6XO1KHmUuUwiP4VXnOSHlIhAXPW" width="640" height="480"></iframe>
+
+[View/Edit Map Spreadsheet](https://docs.google.com/spreadsheets/d/1ekCHTBRtTO0vAWIq8YER49ZLwh18PYPGbgJtZ5V9rgw/edit#gid=1110089093)
 
 Thanks to their contributions, we’ve helped well over one-thousand learners covering a range of topics, from Introduction to Data to Open Refine ([see the full list of lessons](https://librarycarpentry.org/#portfolio)). Fourteen lesson maintainers keep the lessons running smoothly and make sure that they conform to the Carpentry’s pedagogical model. In addition, we have had two highly successful sprints that featured a global set of lesson developers working to add and improve to Library Carpentry lesson materials (more on the sprints below). 
 
