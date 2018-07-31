@@ -33,6 +33,8 @@ Thank you for this opportunity! I'm interested in learning more about training n
 
 #### Katrin Leinweber
 
+Thanks for inviting me to help the LibraryCarpentry community! My goal is to improve the existing lessons, and develop new ones where needed effectively.
+
 #### Mark Laufersweiler
 
 #### Tim Dennis
