@@ -658,6 +658,19 @@ workshops:
     url: "https://lib.ku.edu/library-carpentry"
     notes: ""
     blogs: null   
+  - venue: "University of Arizona, Tucson, AZ, USA"
+    start: 2018-08-06
+    end: 2018-08-07
+    eventbrite_id: ''
+    humandate: 6-7 August, 2018
+    latitude: 32.232188
+    longitude: -110.949003
+    who: "Jeff Oliver"
+    numbers: null
+    what: "Intro to Data, UNIX Shell, Tidy Data for Librarians, SQL"
+    url: "https://jcoliver.github.io/2018-08-06-lc-tucson/"
+    notes: ""
+    blogs: null   
   - venue: "St. Catharines, Canada"
     start: 2018-08-13
     end: 2018-08-14
