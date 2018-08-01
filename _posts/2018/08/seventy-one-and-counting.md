@@ -50,7 +50,7 @@ In 2017, the second Library Carpentry sprint (also part of #mozsprint) attracted
 
 In 2018, the third Library Carpentry Sprint generated 3,138 views of the repositories during the sprint, with 341 unique visitors. More than 150 pull requests and issues were raised against the lessons, with the `git` and `sql` lessons getting some much-needed attention. A second instructor training geared towards librarians is planned for late August this year. 
 
-Thanks to community involvement in developing the lessons and more instructors coming on board, workshop numbers are on the rise. With the [appointment of Chris Erdmann](https://carpentries.org/blog/2018/04/announce-ce-lc-hire/) as the Library Carpentry Community and Development Director, this will continue. Chris aims to inspire further community growth, instructor onboarding, lesson development, and to help with logistics during Library Carpentry’s 'incubation'as a fully fledged Carpentry.
+Thanks to community involvement in developing the lessons and more instructors coming on board, workshop numbers are on the rise. With the [appointment of Chris Erdmann](https://carpentries.org/blog/2018/04/announce-ce-lc-hire/) as the Library Carpentry Community and Development Director, this will continue. Chris aims to inspire further community growth, instructor onboarding, lesson development, and to help with logistics during Library Carpentry’s 'incubation' as a fully fledged Carpentry.
 
 ### Growing the instructor pool
 
