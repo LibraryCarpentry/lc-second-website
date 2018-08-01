@@ -44,7 +44,7 @@ Library Carpentry workshops have benefited from the generous support of [The Car
 
 From 2013 to 2015, seven Software Carpentry for librarians workshops were held to respond to growing interest in the library community for Carpentries workshops. This momentum would later inspire Dr James Baker to develop Library Carpentry.
 
-In 2016, the first Library Carpentry two-day sprint](https://software-carpentry.org/blog/2016/06/library-carpentry-sprint.html) took place as part of the Mozilla Science Lab's global sprint (or #mozsprint). Around twenty people from six countries collaborated over two days to improve and extend lessons and begin to build a global community.
+In 2016, the [first Library Carpentry two-day sprint](https://software-carpentry.org/blog/2016/06/library-carpentry-sprint.html) took place as part of the Mozilla Science Lab's global sprint (or #mozsprint). Around twenty people from six countries collaborated over two days to improve and extend lessons and begin to build a global community.
 
 In 2017, the second Library Carpentry sprint (also part of #mozsprint) attracted 105 people from seven countries to work on upgrading and creating lessons. With more than 800 'events' (issues and pull requests) across our repositories over the two days, our work comprised a fifth of all work done in that year's mozsprint. 2018 was also the year when an instructor training targeted at library professionals was run after [csv,conf](https://csvconf.com/) in Portland, Oregon. 
 
