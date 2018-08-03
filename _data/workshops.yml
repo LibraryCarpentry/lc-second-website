@@ -736,6 +736,19 @@ workshops:
     url: "https://www.heanet.ie/"
     notes: ""
     blogs: ""
+  - venue: "Library of Congress, DC, USA"
+    start: 2018-09-18
+    end: 2018-09-19
+    eventbrite_id: ''
+    humandate: 18 September, 2018
+    latitude: 53.3496182
+    longitude: -6.2488661
+    who: "Chris Erdmann, Laura Wrubel, Megan Potterbusch"
+    numbers: null
+    what: "Intro to Data, OpenRefine, Python"
+    url: "https://libcce.github.io/2018-09-18-LC/"
+    notes: ""
+    blogs: ""
   - venue: "UNC, Chapel Hill, NC, USA"
     start: 2018-10-18
     end: 2018-10-19
