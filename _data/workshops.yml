@@ -644,7 +644,6 @@ workshops:
     what: "Data intro, Regex, OpenRefine, Shell"
     url: "https://weaverbel.github.io/2018-07-12-auckland/"
     blogs: null
-- &id_ws_future # future workshops: move this line down as time passes
   - venue: "Lawrence, KS, USA"
     start: 2018-07-11
     end: 2018-07-31
@@ -658,6 +657,7 @@ workshops:
     url: "https://lib.ku.edu/library-carpentry"
     notes: ""
     blogs: null   
+ - &id_ws_future # future workshops: move this line down as time passes
   - venue: "University of Arizona, Tucson, AZ, USA"
     start: 2018-08-06
     end: 2018-08-07
