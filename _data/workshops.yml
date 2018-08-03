@@ -656,8 +656,8 @@ workshops:
     what: "Intro to Data, OpenRefine, SQL, Workflow Enhancement Tools"
     url: "https://lib.ku.edu/library-carpentry"
     notes: ""
-    blogs: null   
- - &id_ws_future # future workshops: move this line down as time passes
+    blogs: null
+- &id_ws_future # future workshops: move this line down as time passes
   - venue: "University of Arizona, Tucson, AZ, USA"
     start: 2018-08-06
     end: 2018-08-07
@@ -670,7 +670,7 @@ workshops:
     what: "Intro to Data, UNIX Shell, Tidy Data for Librarians, SQL"
     url: "https://jcoliver.github.io/2018-08-06-lc-tucson/"
     notes: ""
-    blogs: null   
+    blogs: null 
   - venue: "St. Catharines, Canada"
     start: 2018-08-13
     end: 2018-08-14
