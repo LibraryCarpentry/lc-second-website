@@ -684,6 +684,19 @@ workshops:
     url: "https://elibtronic.github.io/2018-08-13-BrockU/"
     notes: ""
     blogs: null
+  - venue: "ZB MED, Cologne, Germany"
+    start: 2018-08-22
+    end: 2018-08-23
+    eventbrite_id: ''
+    humandate: 22-23 August, 2018
+    latitude: 50.925970
+    longitude: 6.928460
+    who: "Silvia Di Giogio, Konrad Förstner"
+    numbers: null
+    what: "Intro, Shell, Python, Git"
+    url: "https://zbmed.github.io/2018-08-22-Library_Carpentry_Cologne/"
+    notes: ""
+    blogs: null
   - venue: "Los Angeles, CA, USA"
     start: 2018-08-28
     end: 2018-08-29
@@ -741,8 +754,8 @@ workshops:
     end: 2018-09-19
     eventbrite_id: ''
     humandate: 18-19 September, 2018
-    latitude: 53.3496182
-    longitude: -6.2488661
+    latitude: 38.888684
+    longitude: -77.004719
     who: "Chris Erdmann, Laura Wrubel, Megan Potterbusch"
     numbers: null
     what: "Intro to Data, OpenRefine, Python"
