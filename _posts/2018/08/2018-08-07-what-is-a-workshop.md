@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: blog-post
 authors: ["Chris Erdmann", "Belinda Weaver", "John Chodacki", "Juliane Schneider", "Jez Cope", "Kayleigh Lino", “"Tim Dennis", "Cam Macdonell"]
 title: "What constitutes a Library Carpentry workshop?"
 teaser: "What is considered a Library Carpentry workshop vs a roadshow"
 date: 2018-08-07
 time: "09:00:00"
 tags: ["Library Carpentry", "Workshop", "Overview", "Roadshow", "Training", "Curriculum"]
+category: ["blog"]
 ---
 
 By [Chris Erdmann](https://twitter.com/libcce), [Belinda Weaver](https://twitter.com/cloudaus), [John Chodacki](https://twitter.com/chodacki), [Juliane Schneider](https://twitter.com/JulianeS), [Jez Cope](https://twitter.com/jezcope), [Kayleigh Lino](https://twitter.com/CuratorKay), [Tim Dennis](https://twitter.com/jt14den), [Cam Macdonell](https://twitter.com/cjmacdonell)
