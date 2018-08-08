@@ -15,7 +15,7 @@ I'm happy to announce the members of the inaugural Library Carpentry Curriculum 
 - Katrin Leinweber, TIB Hannover, Germany
 - Mark Laufersweiler, University of Oklahoma, USA
 - Tim Dennis, UCLA, USA
-- Erika Mias, University of Toronto, Canada
+- Erika Mias, Cape Town, South Africa
 - Chris Erdmann, CDL/The Carpentries, USA (ex officio, logistics)
 
 The Carpentries Handbook provides a 
@@ -42,3 +42,4 @@ I have been active with Carpentries for nearly 6 years as a learner, helper, ins
 #### Tim Dennis
 
 #### Erika Mias
+The first Carpentries workshop I attended was a Library Carpentry one in 2015: The curriculum has adapted and expanded so much since then and I am pleased to have this chance to give back to the LC community in a new way by working on the CAC. Since 2015 I've been a helper at and instructor at several workshops and worked with collegues to adapt LC lesson material for special training within a univerity library. I've served on the African Task force since 2017, worked as a collections manager in natural history collections, a digital curation officer in a university library and also worked as an admin for African Carpentries. 
