@@ -25,7 +25,7 @@ out our next steps.
 
 In the meantime, I wanted to welcome Carmi, Katrin, Mark, Tim, and Erika and thank them for taking on this important role. 
 
-### About the Committee:
+### Interest in joining the Committee
 
 #### Carmi Cronje
 
@@ -35,6 +35,8 @@ Supporting and fostering communication between lesson maintainers to optimise pr
 community to contribute to lesson development is also a priority.
 
 #### Katrin Leinweber
+
+Thanks for inviting me to help the LibraryCarpentry community! My goal is to improve the existing lessons, and develop new ones where needed effectively.
 
 #### Mark Laufersweiler
 I have been active with Carpentries for nearly 6 years as a learner, helper, instructor, and Trainer. When changing jobs from meteorology to work at the OU Libraries as the Research Data Specialist, I helped to make the library the focal point for Carpentries as part of our outreach for researchers and better research data management practices. I look forward to facilitating curriculum development for instructing library staff to promote computing skills that will help with changing roles and duties in libraries.  
