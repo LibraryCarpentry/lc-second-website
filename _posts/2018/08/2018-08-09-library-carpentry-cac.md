@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 authors: ["Chris Erdmann"]
-title: "Curriculum Advisory Committee"
+title: "Announcing the Library Carpentry Curriculum Advisory Committee"
 teaser: "Helping keep lessons on track"
 tags: ["Library Carpentry", "Curriculum Advisory Committee"]
 category: ["blog"]
