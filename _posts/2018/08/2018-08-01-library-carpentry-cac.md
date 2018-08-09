@@ -9,7 +9,7 @@ category: ["blog"]
 
 By Chris Erdmann
 
-I'm happy to announce the members of the inaugural Library Carpentry Curriculum Advisory Committee:
+I'm happy to announce the members of the inaugural Library Carpentry Curriculum Advisory Committee (CAC):
 
 - Carmi Cronje, CSIRO, Australia
 - Katrin Leinweber, TIB Hannover, Germany
@@ -20,12 +20,13 @@ I'm happy to announce the members of the inaugural Library Carpentry Curriculum 
 
 The Carpentries Handbook provides a 
 [description](https://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html#curriculum-advisory-committee) 
-of the philosophy guiding the Committee and the responsibilities of Curriculum Advisors. At our first meeting, we will scope 
-out our next steps.
+of the philosophy guiding the Committee and the responsibilities of Curriculum Advisors. 
+
+At our first meeting, we scoped out some of the initial items that the CAC will investigate including lesson coordination and formalization. We discussed improving instructor material and will read [Teaching Tech Together](http://teachtogether.tech/en/) by Greg Wilson. We will also seek out guidance from The Carpentries to help us determine our first steps. 
 
 In the meantime, I wanted to welcome Carmi, Katrin, Mark, Tim, and Erika and thank them for taking on this important role. 
 
-### Interest in joining the Committee
+### Interest in Joining the Committee
 
 #### Carmi Cronje
 
