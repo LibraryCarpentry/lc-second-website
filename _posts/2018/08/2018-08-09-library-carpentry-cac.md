@@ -7,16 +7,16 @@ tags: ["Library Carpentry", "Curriculum Advisory Committee"]
 category: ["blog"]
 ---
 
-By Chris Erdmann
+By [Chris Erdmann](https://twitter.com/libcce)
 
 I'm happy to announce the members of the inaugural Library Carpentry Curriculum Advisory Committee (CAC):
 
-- Carmi Cronje, CSIRO, Australia
-- Katrin Leinweber, TIB Hannover, Germany
-- Mark Laufersweiler, University of Oklahoma, USA
-- Tim Dennis, UCLA, USA
-- Erika Mias, Cape Town, South Africa
-- Chris Erdmann, CDL/The Carpentries, USA (ex officio, logistics)
+- [Carmi Cronje](https://twitter.com/machinical), CSIRO, Australia
+- [Katrin Leinweber](https://twitter.com/gittaca), TIB Hannover, Germany
+- [Mark Laufersweiler](https://twitter.com/laufers), University of Oklahoma, USA
+- [Tim Dennis](https://twitter.com/jt14den), UCLA, USA
+- [Erika Mias](https://twitter.com/erikamias), Cape Town, South Africa
+- [Chris Erdmann](https://twitter.com/libcce), CDL/The Carpentries, USA (ex officio, logistics)
 
 The Carpentries Handbook provides a 
 [description](https://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html#curriculum-advisory-committee) 
@@ -26,7 +26,7 @@ At our first meeting, we scoped out some of the initial items that the CAC will 
 
 In the meantime, I wanted to welcome Carmi, Katrin, Mark, Tim, and Erika and thank them for taking on this important role. 
 
-### Interest in Joining the Committee
+### Interest in Joining the Committee  
 
 #### Carmi Cronje
 
