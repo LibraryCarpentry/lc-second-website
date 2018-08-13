@@ -7,7 +7,7 @@ tags: ["Carpentries", "Library Carpentry", "Workshops", "Member Organization", "
 category: ["blog"]
 ---
 
-By [Joshua Dull](https://github.com/JoshuaDull), [Thea Atwood](https://twitter.com/librarianthea),[Andrew Creamer](https://twitter.com/andydrewcreamer),[Julie Goldman](https://twitter.com/jgolds2),[Kristin Lee](https://twitter.com/kristydawnl),[Lora Leligdon](https://github.com/leligdon),[Sara Oelker](https://twitter.com/sarahoelker), [Chris Erdmann](https://twitter.com/libcce)
+By [Joshua Dull](https://github.com/JoshuaDull), [Thea Atwood](https://twitter.com/librarianthea), [Andrew Creamer](https://twitter.com/andydrewcreamer), [Julie Goldman](https://twitter.com/jgolds2), [Kristin Lee](https://twitter.com/kristydawnl), [Lora Leligdon](https://github.com/leligdon), [Sara Oelker](https://twitter.com/sarahoelker), [Chris Erdmann](https://twitter.com/libcce)
 
 
 How can libraries get involved and become Carpentries members? The New England libraries had an innovative approach to this question: work as a team. The New England Software Carpentry Library Consortium, or [NESCLiC](https://nesclic.github.io/home/) for short, brought together library staff from seven academic libraries: Yale, Harvard, Tufts, Dartmouth, UMass Amherst, Brown, and Mt. Holyoke.  
