@@ -32,8 +32,8 @@ See [The New England Software Carpentry Library Consortium: Developing a Carpent
 
 All 15 founding NESCLiC members recently completed instructor training in the Winter of 2018 and are busy setting up the following workshops over the coming months. 
 
-- Yale University Library: https://nesclic.github.io/2018-08-15-YUL/ 
-- Brown University Library: https://nesclic.github.io/2018-10-22-NEASIST-Brown/
+- Yale University Library: [https://nesclic.github.io/2018-08-15-YUL/](https://nesclic.github.io/2018-08-15-YUL/)
+- Brown University Library: [https://nesclic.github.io/2018-10-22-NEASIST-Brown/](https://nesclic.github.io/2018-10-22-NEASIST-Brown/)
 
 Moving forward, NESCLiC plans to extend their membership to other academic institutions and help onboard additional certified instructors.
 
