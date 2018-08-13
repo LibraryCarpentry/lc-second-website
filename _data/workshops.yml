@@ -684,6 +684,19 @@ workshops:
     url: "https://elibtronic.github.io/2018-08-13-BrockU/"
     notes: ""
     blogs: null
+  - venue: "Yale University Library"
+    start: 2018-08-15
+    end: 2018-08-16
+    eventbrite_id: ''
+    humandate: 15-16 August, 2018
+    latitude: 41.312736
+    longitude: -72.923457
+    who: "Catherine DeRose, Joshua Dull, Kate Nyhan"
+    numbers: null
+    what: "Tidy Data, Intro to Python, Shell/OpeRefine"
+    url: "https://nesclic.github.io/2018-08-15-YUL/"
+    notes: ""
+    blogs: null
   - venue: "ZB MED, Cologne, Germany"
     start: 2018-08-22
     end: 2018-08-23
@@ -773,6 +786,19 @@ workshops:
     numbers: null
     what: "Intro to Data, UNIX Shell, Git, OpenRefine"
     url: "https://libcce.github.io/2018-10-18-UNC/"
+    notes: ""
+    blogs: null
+  - venue: "Brown University Library"
+    start: 2018-10-22
+    end: 2018-10-23
+    eventbrite_id: '48562683293'
+    humandate: 22-23 October, 2018
+    latitude: 41.825748
+    longitude: -71.405109
+    who: "Joshua Dull, Kate Nyhan, Andrew Creamer"
+    numbers: null
+    what: "Data Intro, Shell, Git, OpenRefine"
+    url: "https://nesclic.github.io/2018-10-22-NEASIST-Brown/"
     notes: ""
     blogs: null
   - venue: "Cologne, Germany"
