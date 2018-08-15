@@ -34,15 +34,15 @@ _Topic:_ Peer to peer web for librarians
 _Topic:_ [Binder](https://mybinder.org/), a tool to help researchers make their code immediately reproducible  
 [See time and date in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20181001T20&ah=1)
 
-**5 November @ 20:00 UTC**  
+**5 November @ 21:00 UTC**  
 [Konrad Foerstner](https://twitter.com/konradfoerstner), Professor for Information Literacy at the [Technical University of Cologne](https://www.th-koeln.de/en/) and Head of Information services at [ZB MED](https://www.zbmed.de/en/) - Information Center for Life Sciences  
 _Topic:_ Leveraging The Carpentries to grow library services   
-[See time and date in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20181105T20&ah=1)
+[See time and date in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20181105T21&ah=1)
 
-**3 December @ 20:00 UTC**  
+**3 December @ 21:00 UTC**  
 [Ed Summers](https://twitter.com/edsu), Software Developer, Maryland Institute for Technology and DocNow  
 _Topic:_ Talk and tour of the [Documenting the Now](https://www.docnow.io/) project and tools to support social media & web archiving efforts  
-[See time and date in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20181203T20&ah=1)  
+[See time and date in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20181203T21&ah=1)  
 
 You can also add the [public calendar](https://calendar.google.com/calendar/embed?src=carpentries.org_b1ulp7pe6lk5ff7499k2mriq4s%40group.calendar.google.com&ctz=America%2FNew_York).
 
