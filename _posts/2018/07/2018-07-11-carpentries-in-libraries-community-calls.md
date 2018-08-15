@@ -39,6 +39,11 @@ _Topic:_ [Binder](https://mybinder.org/), a tool to help researchers make their 
 _Topic:_ Leveraging The Carpentries to grow library services   
 [See time and date in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20181105T20&ah=1)
 
+**3 December @ 20:00 UTC**  
+[Ed Summers](https://twitter.com/edsu), Software Developer, Maryland Institute for Technology and DocNow  
+_Topic:_ Talk and tour of the [Documenting the Now](https://www.docnow.io/) project and tools to support social media & web archiving efforts  
+[See time and date in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20181203T20&ah=1)  
+
 You can also add the [public calendar](https://calendar.google.com/calendar/embed?src=carpentries.org_b1ulp7pe6lk5ff7499k2mriq4s%40group.calendar.google.com&ctz=America%2FNew_York).
 
 If you would like to suggest speakers for upcoming calls, please email your ideas to [discuss-library-carpentry@lists.carpentries.org](https://carpentries.topicbox.com/groups/discuss-library-carpentry), suggest names in the etherpad, or contact [chris@carpentries.org](mailto:chris@carpentries.org). 
