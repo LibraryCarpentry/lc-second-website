@@ -8,7 +8,7 @@ tags: ["Library Carpentry", "The Carpentries", "Community", "Stories"]
 category: ["blog"]
 ---
 
-![Kenan Science Library & Science Annex](../img/BHDP-Kenan-Science-Library_003-768x512.jpg)
+![Kenan Science Library & Science Annex](/img/BHDP-Kenan-Science-Library_003-768x512.jpg)
 
 By [Elaine L. Westbrooks](https://twitter.com/UNC_Librarian)
 
@@ -39,8 +39,7 @@ realizing the potential of leveraging The Carpentries at scale to bring together
 foster collaboration, and be a hub for data science activities on their campuses. We also find in a recent [IMLS data 
 sciences in libraries report](http://d-scholarship.pitt.edu/33891/) the recommendation that libraries should start 
 partnering with The Carpentries to address the computational skills gap on campuses while also serving as another connection 
-point to industry where there is [a need for highly skilled and qualified candidates in data science]
-(https://www.luminafoundation.org/files/resources/investing-in-americas-data-science.pdf).
+point to industry where there is [a need for highly skilled and qualified candidates in data science](https://www.luminafoundation.org/files/resources/investing-in-americas-data-science.pdf).
 
 At the University Libraries at the University of North Carolina at Chapel Hill, I see the benefits of partnering with 
 The Carpentries. Doing so allows us to spend our time more efficiently through developing training material collaboratively 
