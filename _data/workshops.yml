@@ -657,7 +657,6 @@ workshops:
     url: "https://lib.ku.edu/library-carpentry"
     notes: ""
     blogs: null
-- &id_ws_future # future workshops: move this line down as time passes
   - venue: "University of Arizona, Tucson, AZ, USA"
     start: 2018-08-06
     end: 2018-08-07
@@ -762,6 +761,7 @@ workshops:
     url: "https://www.heanet.ie/"
     notes: ""
     blogs: ""
+- &id_ws_future # future workshops: move this line down as time passes
   - venue: "Library of Congress, DC, USA"
     start: 2018-09-18
     end: 2018-09-19
