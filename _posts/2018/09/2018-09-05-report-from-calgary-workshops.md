@@ -43,7 +43,7 @@ learning OpenRefine while some were positive about the UNIX Shell lesson.
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The Unix Shell lesson, initially planned for the first day of the workshop, had to be pushed back due to configuration 
-challenges. Thanks to The Carpentries SherAaron Hurt’s assistance, participants were able to continue their Shell lesson via 
+challenges. Thanks to The Carpentries Maneesha Sane and SherAaron Hurt’s assistance, participants were able to continue their Shell lesson via 
 Amazon Web Services (AWS) instances (normally used for Data Carpentry’s Genomics lesson). A flipped approach was also used to 
 teaching Git, based on the outline presented in [issue #5](https://github.com/LibraryCarpentry/lc-git/issues/5#issuecomment-413312189). 
 Overall, the workshop was a success based on survey responses.
