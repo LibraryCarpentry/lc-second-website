@@ -563,6 +563,17 @@ workshops:
     what: "Intro to Data, OpenRefine, RegEx, Shell"
     url: "https://weaverbel.github.io/2018-05-04-unimelb-lc//"
     blogs: null
+  - venue: "University of Edinburgh"
+    start: 2018-05-14
+    end: 2018-05-15
+    eventbrite_id: '43878554939'
+    humandate: 14-15 May, 2018
+    latitude: 55.9465787 
+    longitude: -3.2032139
+    who: "James Baker, Jez Cope"
+    what: "Intro to Data, OpenRefine, Unix shell, Intro to programming with Python"
+    url: "https://jezcope.github.io/2018-05-14-edinburgh/"
+    blogs: null
   - venue: "UCLA Library"
     start: 2018-05-24
     end: 2018-05-25
