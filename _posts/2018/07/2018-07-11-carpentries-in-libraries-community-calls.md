@@ -40,7 +40,7 @@ _Topic:_ Leveraging The Carpentries to grow library services
 [See time and date in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20181105T21&ah=1)
 
 **3 December @ 21:00 UTC**  
-[Ed Summers](https://twitter.com/edsu), Software Developer, Maryland Institute for Technology and DocNow  
+[Ed Summers](https://twitter.com/edsu), Software Developer, Maryland Institute for Technology in the Humanities and DocNow  
 _Topic:_ Talk and tour of the [Documenting the Now](https://www.docnow.io/) project and tools to support social media & web archiving efforts  
 [See time and date in your zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Library+Carpentry+Community+Call&iso=20181203T21&ah=1)  
 
