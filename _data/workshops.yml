@@ -799,7 +799,7 @@ workshops:
     notes: ""
     blogs: ""
 - &id_ws_future # future workshops: move this line down as time passes
- - venue: "University of Bergen, Norway"
+  - venue: "University of Bergen, Norway"
    start: 2018-09-25
    end: 2018-09-26
    eventbrite_id: ''
@@ -812,7 +812,7 @@ workshops:
    url: "https://scriptotek.github.io/2018-09-25-Bergen/"
    notes: ""
    blogs: ""
- - venue: "Monash University Library"
+  - venue: "Monash University Library"
    start: 2018-10-08
    end: 2018-10-08
    eventbrite_id: ''
