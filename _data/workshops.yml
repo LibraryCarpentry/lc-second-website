@@ -802,7 +802,7 @@ workshops:
   - venue: "University of Bergen, Norway"
     start: 2018-09-25
     end: 2018-09-26
-    eventbrite_id: ''
+    eventbrite_id: ""
     humandate: 25-26 September, 2018
     latitude: 60.387830
     longitude: 5.319680
