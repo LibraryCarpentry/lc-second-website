@@ -799,6 +799,19 @@ workshops:
     url: "https://libcce.github.io/2018-09-18-LC/"
     notes: ""
     blogs: ""
+  - venue: "University of Bergen, Norway"
+    start: 2018-09-25
+    end: 2018-09-26
+    eventbrite_id: ''
+    humandate: 25-26 September, 2018
+    latitude: 60.387830,
+    longitude: 5.319680
+    who: "Hans Gunnar Slokvik Lian", "Kyrre Traavik Låberg", "Dan Michael Olsen Heggø"
+    numbers: null
+    what: "Data Intro, Tidy Data, Shell, Git"
+    url: "https://scriptotek.github.io/2018-09-25-Bergen/"
+    notes: ""
+    blogs: ""
   - venue: "UNC, Chapel Hill, NC, USA"
     start: 2018-10-18
     end: 2018-10-19
