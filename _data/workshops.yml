@@ -824,7 +824,7 @@ workshops:
     what: "Intro to Data, UNIX Shell, OpenRefine"
     url: "https://weaverbel.github.io/2018-10-08-monash-lc/"
     notes: ""
-    blogs: null  
+    blogs: null
   - venue: "UNC, Chapel Hill, NC, USA"
     start: 2018-10-18
     end: 2018-10-19
