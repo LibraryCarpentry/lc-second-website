@@ -785,6 +785,7 @@ workshops:
     url: "https://ucsdlib.github.io/2018-09-14-UCSDLC/"
     notes: ""
     blogs: ""
+- &id_ws_future # future workshops: move this line down as time passes
   - venue: "Library of Congress, DC, USA"
     start: 2018-09-18
     end: 2018-09-19
@@ -798,9 +799,8 @@ workshops:
     url: "https://libcce.github.io/2018-09-18-LC/"
     notes: ""
     blogs: ""
-- &id_ws_future # future workshops: move this line down as time passes
   - venue: "University of Bergen, Norway"
-    start: 2018-09-25
+    start: 2018-09-26
     end: 2018-09-26
     eventbrite_id: ''
     humandate: 25-26 September, 2018
