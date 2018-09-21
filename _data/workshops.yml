@@ -799,6 +799,19 @@ workshops:
     url: "https://libcce.github.io/2018-09-18-LC/"
     notes: ""
     blogs: ""
+  - venue: "ZB MED, Cologne, Germany"
+    start: 2018-09-21
+    end: 2018-09-24
+    eventbrite_id: ''
+    humandate: 21 and 24 September, 2018
+    latitude: 50.925970
+    longitude: 6.928460
+    who: "Silvia Di Giorgio, Konrad Förstner"
+    numbers: null
+    what: "Intro to Data, UNIX Shell, Git, Python"
+    url: "https://zbmed.github.io/2018-09-21-Library_Carpentry_Cologne/"
+    notes: ""
+    blogs: ""
   - venue: "University of Bergen, Norway"
     start: 2018-09-25
     end: 2018-09-26
