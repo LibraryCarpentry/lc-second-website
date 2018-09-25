@@ -864,6 +864,19 @@ workshops:
     url: "https://nesclic.github.io/2018-10-22-NEASIST-Brown/"
     notes: ""
     blogs: null
+  - venue: "Hamburg, Germany"
+    start: 2018-11-05
+    end: 2018-11-06
+    eventbrite_id: ''
+    humandate: 5-6 November, 2018
+    latitude: 53.56481
+    longitude: 9.98516
+    who: "Phú Tu"
+    numbers: null
+    what: "Intro, OpenRefine, Python, Git"
+    url: "https://vdb-org.github.io/2018-11-05-Hamburg/"
+    notes: null
+    blogs: null
   - venue: "Cologne, Germany"
     start: 2018-11-12
     end: 2018-11-13
