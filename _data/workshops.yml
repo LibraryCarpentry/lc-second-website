@@ -873,7 +873,7 @@ workshops:
     longitude: 9.98516
     who: "Phú Tu"
     numbers: null
-    what: "Intro, OpenRefine, Python, Git"
+    what: "Intro, OpenRefine, Shell, Git"
     url: "https://vdb-org.github.io/2018-11-05-Hamburg/"
     notes: null
     blogs: null
