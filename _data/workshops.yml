@@ -876,7 +876,7 @@ workshops:
     what: "Intro, OpenRefine, Shell, Git"
     url: "https://vdb-org.github.io/2018-11-05-Hamburg/"
     notes: null
-    blogs: null
+    blogs: "https://www.vdb-online.org/veranstaltungen/807/"
   - venue: "Cologne, Germany"
     start: 2018-11-12
     end: 2018-11-13
