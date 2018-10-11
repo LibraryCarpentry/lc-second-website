@@ -58,7 +58,7 @@ there.
 * Sprinters can work on whatever discipline or theme they like for their resources. Ask questions or coordinate with 
 others in the chat room and/or via Zoom.
 * Dedicated Google docs will be created for each resource being worked on - they will be listed on the 
-registration and coordination doc once the Sprint is underway. 
+registration and coordination doc once the Sprint is underway. We will be using the [Top 10 FAIR Data Things Global Sprint folder](https://drive.google.com/open?id=1y67-PRvyaOgZF9DGxK3A8ut6kJAPQ60S) to organise the resources. 
 * Links to video calls will also be posted on the registration and coordination doc, with the scheduled times - all links 
 will show the time and date in your zone.
 * You can use the Sprint to network. Use the Sprint to meet other people virtually and talk about other opportunities 
@@ -77,5 +77,5 @@ The Twitter handles of the sprint organizers are: [@LibCarpentry](https://twitte
 [@ands_nectar_rds](https://twitter.com/ands_nectar_rds), [@resdatall](https://twitter.com/resdatall), 
 [@RDA_Europe](https://twitter.com/RDA_Europe), [@fosterscience](https://twitter.com/fosterscience), 
 [@aarnet](https://twitter.com/aarnet), [@ESIPfed](https://twitter.com/ESIPfed), [@CalDigLib](https://twitter.com/CalDigLib), 
-[@datadryad](https://twitter.com/datadryad). If you post images on Instagram or Facebook, please send us a link via the 
+[@datadryad](https://twitter.com/datadryad), and [@GOFAIRofficial](https://twitter.com/gofairofficial). If you post images on Instagram or Facebook, please send us a link via the 
 chat room so we can tweet them.
