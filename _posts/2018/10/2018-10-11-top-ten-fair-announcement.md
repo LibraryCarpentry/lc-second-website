@@ -68,7 +68,7 @@ there.
 * Sprinters can work on whatever discipline or theme they like for their resources. Ask questions or coordinate with 
 others in the chat room and/or via Zoom.
 * Dedicated Google docs will be created for each resource being worked on - they will be listed on the 
-registration and coordination doc once the Sprint is underway. We will be using the [Top 10 FAIR Data Things Global Sprint folder](https://drive.google.com/open?id=1y67-PRvyaOgZF9DGxK3A8ut6kJAPQ60S) to organise the resources. 
+registration and coordination doc once the Sprint is underway. We will be using the [Top 10 FAIR Data Things Global Sprint folder](https://drive.google.com/drive/folders/1CYNd_kFnf954aKYGiph_j8gZnqBBi_9P) to organise the resources. 
 * Links to video calls will also be posted on the registration and coordination doc, with the scheduled times - all links 
 will show the time and date in your zone.
 * You can use the Sprint to network. Use the Sprint to meet other people virtually and talk about other opportunities 
@@ -76,7 +76,7 @@ and challenges around FAIR.
 
 ## At the End of the Sprint  
 
-We will work with sprinters to upload their resources to the [Library Carpentry GitHub repository](https://github.com/LibraryCarpentry/lc-research-data) 
+We will work with sprinters to upload their resources to the [Library Carpentry GitHub repository](https://github.com/LibraryCarpentry) 
 and also cross post this work via the partners and collaborators communication channels.
 
 ## Social Media and Communications  
