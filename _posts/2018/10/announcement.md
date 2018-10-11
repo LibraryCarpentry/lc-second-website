@@ -44,10 +44,9 @@ your resource beforehand.
 ## How the Sprint Will Work   
 
 You can start working straight away on your Top 10 FAIR Data Things resource. There will be designated people available to 
-answer questions at most times during the Sprint. We will use the Library Carpentry Gitter Top 10 FAIR chat room to 
-wrangle those questions and clarifications. Join the chat room at any time using your GitHub username or your Twitter handle. 
+answer questions at most times during the Sprint. We will use the [Library Carpentry Gitter Top 10 FAIR chat room](https://gitter.im/LibraryCarpentry/Top10FAIR) to wrangle those questions and clarifications. Join the chat room at any time using your GitHub username or your Twitter handle. 
 
-During the Sprint, you will be able to ask questions via scheduled Zoom video conference calls (join via https://monash.zoom.us/j/944903353) which we will also use for coordination and networking. If you are not sure about something, please post a question in the chat room (directed to someone in particular, if need be) and someone will get back to you.
+During the Sprint, you will be able to ask questions via scheduled Zoom video conference calls (join via [https://monash.zoom.us/j/944903353](https://monash.zoom.us/j/944903353)) which we will also use for coordination and networking. If you are not sure about something, please post a question in the chat room (directed to someone in particular, if need be) and someone will get back to you.
 
 ## How the Sprint Will Be Organised  
 
