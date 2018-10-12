@@ -785,7 +785,6 @@ workshops:
     url: "https://ucsdlib.github.io/2018-09-14-UCSDLC/"
     notes: ""
     blogs: ""
-- &id_ws_future # future workshops: move this line down as time passes
   - venue: "Library of Congress, DC, USA"
     start: 2018-09-18
     end: 2018-09-19
@@ -838,6 +837,7 @@ workshops:
     url: "https://weaverbel.github.io/2018-10-08-monash-lc/"
     notes: ""
     blogs: null
+- &id_ws_future # future workshops: move this line down as time passes
   - venue: "UNC, Chapel Hill, NC, USA"
     start: 2018-10-18
     end: 2018-10-19
