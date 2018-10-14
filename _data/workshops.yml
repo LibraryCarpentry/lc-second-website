@@ -252,6 +252,18 @@ workshops:
     what: "Bespoke shell, refine, python"
     notes: "Locally run event not directly supported by LC https://camlit.wordpress.com/2017/02/01/software-skills-for-librarians/ http://www.cl.cam.ac.uk/~ncc25/libcarp/index.html"
     blogs: null
+  - venue: "Portland"
+    humandate: "4-5 May 2017"
+    start: 2017-05-04
+    end: 2017-05-05
+    latitude: 45.518473
+    longitude: -122.6877707
+    who: "Belinda Weaver, Tim Dennis"
+    numbers: 28 
+    url: "https://weaverbel.github.io/2017-05-04-portland-ttt/"
+    notes: "Post CSV;Conf Instructor Training"
+    what: "Carpentries Instructor Training for Librarians"
+    blogs: null
   - venue: "University of Cape Town"
     humandate: "5 May 2017"
     start: 2017-05-05
