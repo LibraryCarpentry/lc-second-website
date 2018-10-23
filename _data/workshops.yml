@@ -902,6 +902,19 @@ workshops:
     url: "https://evamarik.github.io/2018-11-12-cologne/"
     notes: "See also https://www.vdb-online.org/veranstaltung/800/ (in German)"
     blogs: null
+  - venue: "George Mason University, Fairfax, VA"
+    start: 2018-12-13
+    end: 2018-12-14
+    eventbrite_id: ''
+    humandate: 13-14 December, 2018
+    latitude: 38.8314936
+    longitude: -77.3114889
+    who: "Sherry Lake, Vanessa Guerra, Chris Erdmann"
+    numbers: null
+    what: "Intro to Data, Unix Shell, Git, OpenRefine"
+    url: "https://libcce.github.io/2018-12-13-GMU/"
+    notes: null
+    blogs: null
   - venue: "MTSU, Murfreesboro, TN, USA"
     start: 2019-01-07
     end: 2019-01-09
