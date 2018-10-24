@@ -3,11 +3,12 @@ layout: blog-post
 authors: ["Chris Erdmann"]
 title: "We just passed 2K Twitter followers!"
 teaser: "In celebration of reaching 2K Twitter followers, here is a summary of our Twitter Analytics"
-date: 2018-10-xx
+date: 2018-10-24
 tags: ["Twitter Analytics", "Library Carpentry", "Twitter Followers"]
 category: ["blog"]
 ---
 
+By [Chris Erdmann](https://twitter.com/libcce)
 
 It’s time to celebrate a milestone. On <DATE>, the Library Carpentry Twitter account passed two thousand followers! We thought it would be a great opportunity to summarise our Twitter analytics.  
 
