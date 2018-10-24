@@ -10,7 +10,7 @@ category: ["blog"]
 
 By [Chris Erdmann](https://twitter.com/libcce)
 
-It’s time to celebrate a milestone. On <DATE>, the Library Carpentry Twitter account passed two thousand followers! We thought it would be a great opportunity to summarise our Twitter analytics.  
+It’s time to celebrate a milestone. On October 24th, 2018, the Library Carpentry Twitter account passed two thousand followers! We thought it would be a great opportunity to summarise our Twitter analytics.  
 
 To start, here are our top 5 tweets by impressions since we created the account in May 2016:
 
