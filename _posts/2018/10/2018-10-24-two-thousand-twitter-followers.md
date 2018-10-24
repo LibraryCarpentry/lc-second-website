@@ -48,6 +48,6 @@ It’s time to celebrate a milestone. On October 24th, 2018, the Library Carpent
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Announcing new grant from <a href="https://twitter.com/US_IMLS?ref_src=twsrc%5Etfw">@US_IMLS</a> to Expand <a href="https://twitter.com/LibCarpentry?ref_src=twsrc%5Etfw">@LibCarpentry</a> Now hiring Project Coordinator Position. Spread the word <a href="https://t.co/yMiW4w2JUo">https://t.co/yMiW4w2JUo</a></p>&mdash; UC Curation Center (@UC3CDL) <a href="https://twitter.com/UC3CDL/status/927579394217873408?ref_src=twsrc%5Etfw">November 6, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
->> Starting in April 2018, our average impressions per month jumped from 8K to 33K. In May 2018 we got our largest bump in new followers at 161 since May 2017 when we added 158 followers. Overall, November 2016 saw us adding the most followers at 279.  
+> Starting in April 2018, our average impressions per month jumped from 8K to 33K. In May 2018 we got our largest bump in new followers at 161 since May 2017 when we added 158 followers. Overall, November 2016 saw us adding the most followers at 279.  
 
 These are some of the highlights from our Twitter Analytics. Thank you to everyone that follows us, and as always let us know about all the software and data efforts you are supporting in your libraries!  
