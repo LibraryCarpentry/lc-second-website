@@ -902,6 +902,19 @@ workshops:
     url: "https://evamarik.github.io/2018-11-12-cologne/"
     notes: "See also https://www.vdb-online.org/veranstaltung/800/ (in German)"
     blogs: null
+  - venue: "Manchester, UK"
+    start: 2018-11-30
+    end: 2018-11-30
+    eventbrite_id: ''
+    humandate: 30 November, 2018
+    latitude: 53.4809444
+    longitude: -2.2396331
+    who: "Nilani Ganeshwaran, Phil Reed, Jane Gallagher"
+    numbers: null
+    what: "Tidy Data, OpenRefine"
+    url: "https://uom-nilani.github.io/2018-11-30-Manchester/"
+    notes: null
+    blogs: null
   - venue: "George Mason University, Fairfax, VA"
     start: 2018-12-13
     end: 2018-12-14
